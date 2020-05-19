@@ -3,6 +3,4 @@ dist/
 build/
 .DS_Store
 .idea/
-*.csv
-*.xlsx
 .vscode
