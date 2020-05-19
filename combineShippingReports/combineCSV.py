@@ -48,7 +48,7 @@ class App(QWidget):
 
     # Write the appended dataframe to an excel file
     # Add index=False parameter to not include row numbers
-    report = 'CombinedHouseholds-' + datetime.now().strftime('%m_%d_%Y') + '.xlsx'
+    report = 'CombinedReport-' + datetime.now().strftime('%m_%d_%Y') + '.xlsx'
     appended_df.to_excel(report, index=False)
     msg = QMessageBox()
     msg.setWindowTitle('Success!')
