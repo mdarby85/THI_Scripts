@@ -52,7 +52,7 @@ class App(QWidget):
     appended_df.to_excel(report, index=False)
     msg = QMessageBox()
     msg.setWindowTitle('Success!')
-    msg.setText('New report located at ' + os.getcwd() + report)
+    msg.setText('New report located at ' + os.getcwd() + os.path.sep + report)
     msg.setIcon(QMessageBox.Information)
     msg.setStandardButtons(QMessageBox.Ok)
     msg.setDefaultButton(QMessageBox.Ok)
