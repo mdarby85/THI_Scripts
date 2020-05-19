@@ -1,0 +1,974 @@
+﻿Contact First Name,Contact Last Name,Form Contact Email,Phone,Address Return Code,Mailing Address (Line 1),Mailing Address City,Mailing State,Mailing Address ZIP,Which campus does your child attend?,Student ID Number,Individual Eligibility Status,Participant First Name,Participant Last Name,Date of Birth,Gender/Sex,Race/Ethnicity,Vendor ID,Household ID (Case Insensitive),eMTY School District
+Amber,Atkins,lynn.drinnon@hcsk12.com,423-300-4921,Confirmed,194 Ashley Cir,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Peyton,Atkins,10/5/2010,Male,White,a2xf300000AjFYZAA3,a2wf300000HNT8TAAX,Hancock County Schools (TN)
+Jeremiah,Harris,tara.west@hcsk12.com,(423)300-9511,Confirmed,306 Sterling Dr,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Isaiah,Harris,6/25/2013,Male,White,a2xf300000AjFyqAAF,a2wf300000HNTLcAAP,Hancock County Schools (TN)
+Jeni,Howerton,lynn.drinnon@hcsk12.com,865-406-6464,Confirmed,820 Spence Rd,Rutledge,TN,37861,Hancock county elementary,0,New Entry / Not Yet Requested,Zeke,Howerton,6/11/2009,Male,White,a2xf300000AjFZbAAN,a2wf300000HNT8xAAH,Hancock County Schools (TN)
+Amanda,Collins,lynn.drinnon@hcsk12.com,423-300-9743,Confirmed,1918 Cool Branch Rd,Sneedville,TN,37869,Hancock county elementary,2000298,New Entry / Not Yet Requested,Amelia,Trent,2/3/2012,Female,White,a2xf300000AjFaoAAF,a2wf300000HNT9bAAH,Hancock County Schools (TN)
+Jessica,Dalton,jane@doe.nrl,(423) 733-4831,Confirmed,7988 Highway 31,Thorn Hill,TN,37881,Hancock County High,P1GOX1HD7,Verified,Cassi,Dalton,6/28/2005,,,a2xf300000AjCTGAA3,a2wf300000HNRaaAAH,Hancock County Schools (TN)
+Beth,Ferguson,bfbethferg@gmail.com,4233000251,Confirmed,136 Hillcrest Ln,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Rowan,Bell,9/15/2020,Male,White,a2xf300000AjFatAAF,a2wf300000HNT9gAAH,Hancock County Schools (TN)
+Nellie,Martin,nelliemartin92@gmail.com,4233007217,Confirmed,158 Fred Ln,Sneedville,TN,37869,Hancock Elementary,2000229,Verified,Dorothy,Dillman,3/9/2010,Female,White,a2xf3000003bwcxAAA,a2wf300000Cg5vEAAR,Hancock County Schools (TN)
+Jayla,Pitts,j357magicebox@gmail.com,(444)444-4444,Confirmed,238 Harrison St,Sneedville,TN,37869,HCELC,0,Verified,Dalla,Collins,5/6/2017,,,a2xf3000003c2S5AAI,a2wf300000Cg9TsAAJ,Hancock County Schools (TN)
+Brenda,Holt,j357magicebox@gmail.com,6668888888,Confirmed,171 Wanola St,Sneedville,TN,37869,HCHMS,3684539,Verified,Jonathan,Holt,1/27/2003,,,a2xf3000003c2WXAAY,a2wf300000Cg9bmAAB,Hancock County Schools (TN)
+Jessica,Stapleton,j357magicebox@gmail.com,(123)123-1234,Confirmed,180 Seal Ave,Sneedville,TN,37869,HCHMS,4159080,Verified,Jackson,Stapleton,6/9/2007,,,a2xf3000003c2kTAAQ,a2wf300000Cg9RsAAJ,Hancock County Schools (TN)
+Shauna,Henson,shaunahenson2@gmail.com,4233812061,Confirmed,202 County Road 78,Riceville,TN,37370,7898,7898,,Bryan,Henson,7/8/2008,Male,White,a2xf3000003cCEKAA2,a2wf300000CgF9TAAV,Hancock County Schools (TN)
+Wyatt,Williams,wyatt@williams.nrl,(423)300-9281,Confirmed,2683 Stoney Fork Rd,Sneedville,TN,37869,Hancock County,0,Verified,Wyatt,Williams,,,White,a2xf300000Aj5KqAAJ,a2wf300000HNN43AAH,Hancock County Schools (TN)
+Fain,Poston,fain@poston.nrl,4237338751,Confirmed,293 Fleenor Cir,Kyles Ford,TN,37765,Hancock High School,5044203,Verified,Angeleah,Poston,1/15/2003,Female,White,a2xf300000Aj5QEAAZ,a2wf300000HNN2WAAX,Hancock County Schools (TN)
+Ashley,Jones,cassandra.bunch@hcsk12.com,4233001361,Confirmed,5135 Newmans Ridge Rd,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Jonathan,Tasker,2/28/2012,Male,White,a2xf300000Aj4yKAAR,a2wf300000HNMooAAH,Hancock County Schools (TN)
+Cindy,Spradlin,shawna.mcdonald@hcsk12.com,4239731025,Confirmed,184 Big Creek Rd,Sneedville,TN,37869,HCES,0,Verified,Rex,Barnett,8/21/2007,Male,White,a2xf300000Aj5LiAAJ,a2wf300000HNN06AAH,Hancock County Schools (TN)
+Jessica,Hopkins,jessica@hopkins.nrl,4239731241,Confirmed,1001 McCoy Rd,Sneedville,TN,37869,Hancock County Middle Sch,4823607,New Entry / Not Yet Requested,Anestin,Dalton,4/6/2006,,,a2xf300000Aj5DyAAJ,a2wf300000HNMwdAAH,Hancock County Schools (TN)
+Melissa,Whitney,shawna.mcdonald@hcsk12.com,4233273066,Confirmed,1942 Trent Valley Rd,Sneedville,TN,37869,HCMS,0,Verified,Mason,Whitney,6/24/2007,Male,White,a2xf300000Aj5ULAAZ,a2wf300000HNN4mAAH,Hancock County Schools (TN)
+Lois,Williams,sherry.hunt@hcsk12.com,423-300-1970,Confirmed,PO Box 293,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Neveah,Collins,11/25/2013,Female,White,a2xf300000Aj4xCAAR,a2wf300000HNMoFAAX,Hancock County Schools (TN)
+Savannah,Moore,savannh@moore.nrl,4236267510,Confirmed,970 Sulphur Hollow Rd,Tazewell,TN,37879,Hancock County,5057056,Verified,Savannah,Moore,,,White,a2xf300000Aj4tSAAR,a2wf300000HNMxgAAH,Hancock County Schools (TN)
+Deb,Holt,sherry.hunt@hcsk12.com,4237339958,Confirmed,804 Parkey Holw,Sneedville,TN,37869,Hancock County High,0,Verified,Jacob,Holt,9/29/2004,Male,White,a2xf300000Aj5MvAAJ,a2wf300000HNMuYAAX,Hancock County Schools (TN)
+Virginia,Hopkins,vihopkins123@gmail.com,4233000029,Confirmed,1540 Parkey Holw,Sneedville,TN,37869,Hancock Middle school,0,New Entry / Not Yet Requested,John,Hopkins,,Male,White,a2xf300000Aj45ZAAR,a2wf300000HNMNdAAP,Hancock County Schools (TN)
+Jordan,Baker,jordan@baker.nrl,4233003810,Confirmed,365 John McNeil Blvd Apt 269,Sneedville,TN,37869,Hancock County,0,New Entry / Not Yet Requested,Jordan,Baker,,,,a2xf300000Aj5ZkAAJ,a2wf300000HNN7CAAX,Hancock County Schools (TN)
+Melissa,McDaniel,mdmcdaniel09@yahoo.com,8657712028,Confirmed,2088 Mount Zion Rd,Tazewell,TN,37879,Hancock county Elementary,O,New Entry / Not Yet Requested,Bryson,McDaniel,,Male,White,a2xf300000Aj3sbAAB,a2wf300000HNML8AAP,Hancock County Schools (TN)
+Beverly,Ramsey,bev.ramsey77@gmail.com,4233008044,Confirmed,1712 Alton Rd,Sneedville,TN,37869,Hancock High/Middle,3796829,Verified,Storm,Ramsey,7/5/2004,Male,White,a2xf300000Aj3btAAB,a2wf300000HNM8KAAX,Hancock County Schools (TN)
+Monica,Bales,cassandra.bunch@hcsk12.com,4233000340,Confirmed,5419 Mulberry Gap Rd,Sneedville,TN,37869,Hancock County Elementary,4749769,Verified,Zoey,Trent,11/23/2012,Female,White,a2xf300000Aj3vjAAB,a2wf300000HNMETAA5,Hancock County Schools (TN)
+LeAnne,Anderson,cammie.kee@hcsk12.com,(423)300-1241,Confirmed,187 Louis Rhea Dr,Sneedville,TN,37869,Hancock County Elementary,2000628,Verified,Maggie,Anderson,12/16/2012,Female,White,a2xf300000Aj4AFAAZ,a2wf300000HNMQ3AAP,Hancock County Schools (TN)
+Connie,South,shawna.mcdonald@hcsk12.com,4233009256,Confirmed,1138 Swan Creek Rd,Sneedville,TN,37869,HCES,0,Verified,Jeremiah,South,1/26/2002,Male,White,a2xf300000Aj4GxAAJ,a2wf300000HNMW1AAP,Hancock County Schools (TN)
+Lillie,Rattler,lillie.rattler@yahoo.com,423-300-4845,Confirmed,565 River Rd,Sneedville,TN,37869,Hancock Middle School,0,Not Required,Meredith,Rattler,11/1/2006,Female,American Indian or Alaska Native; White,a2xf300000Aj3wdAAB,a2wf300000HNMKKAA5,Hancock County Schools (TN)
+Moreno,Jason@Moreno.nrl,jason@moreno.nrl,8658502380,Confirmed,115 Harrison St,Sneedville,TN,37869,Hancock Elementary,0,Verified,Ciera,Moreno,11/11/2009,Female,Black or African American,a2xf300000Aj4miAAB,a2wf300000HNMjAAAX,Hancock County Schools (TN)
+Courtney,Harrison,karyn.trent@hcsk12.com,4237362155,Confirmed,167 Walnut St,Sneedville,TN,37869,Hancock middle school,0,Verified,Stephanie,Harrison,7/22/2007,Female,White,a2xf300000Aj4TvAAJ,a2wf300000HNMZyAAP,Hancock County Schools (TN)
+Kristy,Wilder,karyn.trent@hcsk12.com,(423)754-7665,Confirmed,1006 W Main St,Rogersville,TN,37857,Hancock High School,0,Verified,Meghan,Wilder,12/23/2004,Female,White,a2xf300000Aj4MBAAZ,a2wf300000HNMWLAA5,Hancock County Schools (TN)
+Laura,Lamb,lauralamb134@yahoo.com,4233009463,Confirmed,908 Otis Greene Dr,Sneedville,TN,37869,Hancock Middle School,Jacob Lamb,Not Required,Jacob,Lamb,7/30/2001,Male,White,a2xf300000Aj3n2AAB,a2wf300000HNMDBAA5,Hancock County Schools (TN)
+Wilbur,Smith,cassandra.bunch@hcsk12.com,4239731386,Confirmed,402 Jarvis St,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Aza,Smith,7/7/2009,Male,White,a2xf300000Aj58eAAB,a2wf300000HNMtyAAH,Hancock County Schools (TN)
+Jessica,Eldridge,karyn.trent@hcsk12.com,4233000298,Confirmed,176 Dogwood Hts,Sneedville,TN,37869,Hancock County Middle,0,Verified,Kingston,Eldridge,8/13/2007,Male,White,a2xf300000Aj42kAAB,a2wf300000HNMMBAA5,Hancock County Schools (TN)
+Jessica,Gibson,cammie.kee@hcsk12.com,(423)300-5813,Confirmed,116 Stargazer Ln,Thorn Hill,TN,37881,Hancock County Elementary,2000299,Verified,Kaden,Gibson,10/13/2011,Male,White,a2xf300000Aj4CuAAJ,a2wf300000HNMJSAA5,Hancock County Schools (TN)
+Jacklyn,Bailey,shawna.mcdonald@hcsk12.com,4233008139,Confirmed,2331 Duck Creek Rd,Sneedville,TN,37869,HCMS,4024759,Verified,Kylee,Bailey,6/20/2007,Female,White,a2xf300000Aj42GAAR,a2wf300000HNMM6AAP,Hancock County Schools (TN)
+Alisha,Dillon,alisha.dillon@hcsk12.com,4233009252,Confirmed,815 Beech St,Sneedville,TN,37869,Hancock County Elementary,4458447,Verified,Diesel,Dillon,4/12/2011,Male,White,a2xf300000Aj5VOAAZ,a2wf300000HNN5BAAX,Hancock County Schools (TN)
+Angel,Bolden,cassandra.bunch@hcsk12.com,4235268208,Confirmed,179 Turner Rd,Sneedville,TN,37869,Hancock County Elementary,4828537,Verified,Addison,Bolden,1/27/2013,Female,White,a2xf300000Aj3hwAAB,a2wf300000HNMB9AAP,Hancock County Schools (TN)
+Jennifer,Fleenor,jenniferfleenor1990@gmail.com,4233000208,Confirmed,170 Cloud Ln,Sneedville,TN,37869,Hancock County High,4194114,Verified,Addison,Fleenor,9/8/2003,Female,White,a2xf300000Aj3IJAAZ,a2wf300000HNLyjAAH,Hancock County Schools (TN)
+Christine,Denim,sugarmama549@aol.com,4233008176,Confirmed,2750 Stoney Fork Rd,Sneedville,TN,37869,Hancock Middle,5608041,Verified,Alisha,Carter,,Female,White,a2xf300000Aj3UdAAJ,a2wf300000HNM4XAAX,Hancock County Schools (TN)
+Ashley,Gibson,cammie.kee@hcsk12.com,(423)300-9518,Confirmed,2756 Duck Creek Rd,Sneedville,TN,37869,Hancock County Elementary,2000299,Verified,Kylar,Gibson,8/21/2011,Male,White,a2xf300000Aj4BsAAJ,a2wf300000HNMR1AAP,Hancock County Schools (TN)
+Erin,Seal,erin.n.seal@gmail.com,423-312-1604,Confirmed,137 Hyatt Ln,Sneedville,TN,37869,Hancock County,0,Not Required,Rory,Seal,1/25/2017,Female,White,a2xf300000Aj3N9AAJ,a2wf300000HNM5QAAX,Hancock County Schools (TN)
+Jodie,Bakely,jodie@bakely.nrl,4236900075,Confirmed,374 Vista Dr,Thorn Hill,TN,37881,Hancock High School,2000194,Verified,Jackson,Bakely,5/16/2003,Male,White,a2xf300000Aj5MHAAZ,a2wf300000HNN0QAAX,Hancock County Schools (TN)
+Kristy,Wilson,kristy_greene@ymail.com,4233009614,Confirmed,112 Mackey Rd,Sneedville,TN,37869,Hancock County Elementary,4437598,Verified,Kennadie,Badeaux,6/8/2011,Female,White,a2xf300000Aj5RWAAZ,a2wf300000HNMyQAAX,Hancock County Schools (TN)
+Jennifer,Yount,jennifer.yount@hcsk12.com,4233008962,Confirmed,192 Maple Rd,Sneedville,TN,37869,Hancock County,0,Verified,Dawson,Yount,,,,a2xf300000Aj5RvAAJ,a2wf300000HNN3oAAH,Hancock County Schools (TN)
+Onofre,Santana,cammie.kee@hcsk12.com,(423)307-7017,Confirmed,2817 Pawpaw Rd,Thorn Hill,TN,37881,Hancock County Elementary,2000118,Verified,Dylan,Santana,10/14/2011,Male,Hispanic or Latino/a,a2xf300000Aj455AAB,a2wf300000HNMNOAA5,Hancock County Schools (TN)
+Julie,Bowlin,cammie.kee@hcsk12.com,(423)736-1292,Confirmed,165 Orchard Ln,Thorn Hill,TN,37881,Hancock County Elementary,2000108,Verified,Graham,Bowlin,8/30/2011,Male,White,a2xf300000Aj484AAB,a2wf300000HNMP0AAP,Hancock County Schools (TN)
+Kasey,Fugate,kaseyferg2@gmail.com,4233009030,Confirmed,323 Clinch Ave,Sneedville,TN,37869,Hancock County Middle Sch,0,Verified,Landin,Ferguson,9/12/2006,Male,White,a2xf300000Aj3WoAAJ,a2wf300000HNM5pAAH,Hancock County Schools (TN)
+Barbara,Herring,misty.rasnic@hcsk12.com,423-724-7215,Confirmed,3142 Sherm Mountain Rd,Sneedville,TN,37869,Hancock County Elementary,5526155,Verified,Wyatt,Bowman,2/2/2009,Male,White,a2xf300000Aj4YgAAJ,a2wf300000HNMbzAAH,Hancock County Schools (TN)
+Whitney,Fleenor,whitney.fleenor@hcsk12.com,4233009265,Confirmed,6802 Tazewell Hwy,Sneedville,TN,37869,Hancock County Elementary,4856317,Verified,Tennyson,Fleenor,7/31/2014,Female,White,a2xf300000Aj3gAAAR,a2wf300000HNMAaAAP,Hancock County Schools (TN)
+Denise,Davis,cammie.kee@hcsk12.com,4233000373,Confirmed,2764 Stoney Gap Rd,Sneedville,TN,37869,Hancock County Elementary,2000297,Verified,Shalyssa,Davis,3/11/2012,Female,White,a2xf300000Aj40GAAR,a2wf300000HNMKtAAP,Hancock County Schools (TN)
+Monica,Bales,cassandra.bunch@hcsk12.com,4233000340,Confirmed,5419 Mulberry Gap Rd,Sneedville,TN,37869,Hancock County Elementary,4749769,Verified,Zoey,Trent,11/23/2012,Female,White,a2xf300000Aj3byAAB,a2wf300000HNM8PAAX,Hancock County Schools (TN)
+Jodie,Bakely,bakely@gmail.com,4236900075,Confirmed,374 Vista Dr,Thorn Hill,TN,37881,Hancock County High Schoo,2000194,Verified,Jackson,Bakely,5/16/2003,Male,White,a2xf300000Aj5JXAAZ,a2wf300000HNMzDAAX,Hancock County Schools (TN)
+Josh,Collins,josh@collins.nrl,4233005226,Confirmed,906 Barnette Hollow Rd,Sneedville,TN,37869,Hancock County,0,Verified,Jackson,Collins,,,White,a2xf300000Aj5JYAAZ,a2wf300000HNMzIAAX,Hancock County Schools (TN)
+Emily,Gibson,emily.gibson@hcsk12.com,4237334844,Confirmed,812 Rock Hill Rd,Kyles Ford,TN,37765,Hancock High School,4194180,Verified,Tyler,Gibson,2/2/2003,Male,White,a2xf300000Aj5VJAAZ,a2wf300000HNN56AAH,Hancock County Schools (TN)
+Jacqulyn,Smith,jacqulynsmith38@gmail.com,4233003916,Confirmed,1847 Kyles Ford Hwy,Sneedville,TN,37869,Hancock County Elementary,4623678,Verified,Sarah,Williams,1/19/2011,Female,White,a2xf300000Aj5MMAAZ,a2wf300000HNN0VAAX,Hancock County Schools (TN)
+Sarah,Holt,sbeth101@hotmail.com,8656177275,Confirmed,3492 Highway 131,Thorn Hill,TN,37881,Hancock county Elementary,0,New Entry / Not Yet Requested,Henry,Holt,,Male,White,a2xf300000Aj5NtAAJ,a2wf300000HNN1OAAX,Hancock County Schools (TN)
+Misty,Cooper,misty@cooper.nrl,4233009495,Confirmed,2950 Chinquipin Rd,Sneedville,TN,37869,Hancock High,4265233,Verified,Treybeon,Cooper,11/5/2001,Male,White,a2xf300000Aj6EiAAJ,a2wf300000HNNR2AAP,Hancock County Schools (TN)
+Rachel,Nichols,rnichols13@yahoo.com,(423)300-9490,Confirmed,344 Rock Hill Rd,Kyles Ford,TN,37765,Hancock County Elementary,4234616,New Entry / Not Yet Requested,Millison,Nichols,4/11/2011,Female,White,a2xf300000Aj61oAAB,a2wf300000HNNKQAA5,Hancock County Schools (TN)
+Krystale,Jones,krystale.jones@hcsk12.com,4233009559,Confirmed,894 Cope Rd,Sneedville,TN,37869,0,0,New Entry / Not Yet Requested,Trenton,Jones,,Male,White,a2xf300000Aj6cuAAB,a2wf300000HNNceAAH,Hancock County Schools (TN)
+Edith,Collins,sue.carney@hcsk12.com,865-5076265,Confirmed,750 Winstead Rd,Thorn Hill,TN,37881,home schooled,0,Not Required,Anna,Newman,9/22/2008,Female,White,a2xf300000Aj6v3AAB,a2wf300000HNNllAAH,Hancock County Schools (TN)
+Megan,Gaudio,megangaudio@gmail.com,8654407865,Confirmed,2128 Trents Chapel Rd,Sneedville,TN,37869,Hancock County Elementary,4553095,New Entry / Not Yet Requested,David,Greene,11/2/2010,Male,White,a2xf300000Aj6idAAB,a2wf300000HNNfiAAH,Hancock County Schools (TN)
+Rebecca,Jones,darinandrebecca1@yahoo.com,(423)300-1259,Confirmed,500 Grandview Dr,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Carlee,Jones,12/11/2012,Female,White,a2xf300000Aj6kZAAR,a2wf300000HNNgRAAX,Hancock County Schools (TN)
+Natasha,Napier,sue.carney@hcsk12.com,4233008194,Confirmed,756 Winstead Rd,Thorn Hill,TN,37881,Hancock cty middle/High,5361500,Verified,Jordan,Napier,3/27/2007,Male,White,a2xf300000Aj6wQAAR,a2wf300000HNNmUAAX,Hancock County Schools (TN)
+Kelly,Drinnon,kellydrinnon@yahoo.com,(423)300-8845,Confirmed,2635 Cantwell Valley Rd,Sneedville,TN,37869,Hancock County Elementary,4637429,New Entry / Not Yet Requested,Ella,Drinnon,12/23/2010,Female,White,a2xf300000Aj644AAB,a2wf300000HNNLYAA5,Hancock County Schools (TN)
+Kristi,Jones,kmjones123@icloud.com,4232590354,Confirmed,895 Lexi Ln,Sneedville,TN,37869,Hancock County Elementary,4547093,Verified,Brayden,Jones,11/21/2010,Male,White,a2xf300000Aj5znAAB,a2wf300000HNNJXAA5,Hancock County Schools (TN)
+Erica,Lawson,cassandra.bunch@hcsk12.com,4237546379,Confirmed,468 Copper Ridge Rd,Thorn Hill,TN,37881,Hancock County Elementary,4637454,Verified,Maci,Lawson,5/20/2013,Female,White,a2xf300000Aj6gXAAR,a2wf300000HNNeaAAH,Hancock County Schools (TN)
+Samatha,Ellis,daisy.greene@hcsk12.com,4237331762,Confirmed,13374 Alanthus Hill Rd,Tazewell,TN,37879,HCELC,2000929,Verified,Abel,Ellis,12/31/2014,Male,,a2xf300000Aj8RkAAJ,a2wf300000HNOd9AAH,Hancock County Schools (TN)
+Kristina,Roark,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,2025 Rebel Hollow Rd,Tazewell,TN,37879,HCHS,4283748,Verified,David,Holman,6/26/2005,,,a2xf300000Aj8eYAAR,a2wf300000HNOjRAAX,Hancock County Schools (TN)
+Samantha,Hurst,samantha.hurst1213@yahoo.com,(423)300-4615,Confirmed,2195 Main St,Sneedville,TN,37869,Hancock Elementary,4682010,Verified,Audrieanna,Howard,9/15/2012,,,a2xf300000Aj8UKAAZ,a2wf300000HNOWxAAP,Hancock County Schools (TN)
+Jamie,Anderson,jane@doe.nrl,(423) 300-0058,Confirmed,187 Louis Rhea Dr,Sneedville,TN,37869,Hancock County High,6VUPESNEJ,Verified,Will,Anderson,5/31/2005,,,a2xf300000Aj922AAB,a2wf300000HNOzoAAH,Hancock County Schools (TN)
+Melanie,Beckler,bennettmj@goldmail.etsu.edu,(423)300-1162,Confirmed,161 Cove Ln,Sneedville,TN,37869,Hancock Elementary,0,Verified,Bella,Beckler,6/26/2013,,,a2xf300000Aj80OAAR,a2wf300000HNOM8AAP,Hancock County Schools (TN)
+Pat and Deb,Riley,nolan.campbell@hcsk12.com,423-300-0535,Confirmed,312 Willow St,Sneedville,TN,37869,HCMHS,0,New Entry / Not Yet Requested,Child,3,2/4/2004,,,a2xf300000Aj8qUAAR,a2wf300000HNOqXAAX,Hancock County Schools (TN)
+Dawn,Slone,dawn@slone.nrl,423-733-1762,Confirmed,2241 W Trent Valley Rd,Sneedville,TN,37869,Hancock Elementary,4626649,Verified,Caylie,Winchester,10/23/2012,,,a2xf300000Aj8DnAAJ,a2wf300000HNOi4AAH,Hancock County Schools (TN)
+Teresa,Delph,erica.lawson@hcsk12.com,4237335136,Confirmed,1038 Panther Creek Rd,Sneedville,TN,37869,Hancock Elementary,4432108,Verified,Rylan,Johnson,8/11/2012,Female,White,a2xf300000Aj7xjAAB,a2wf300000HNOKRAA5,Hancock County Schools (TN)
+Lori,Brown,jacklyn.bailey@hcsk12.com,4233003120,Confirmed,160 Cantwell Valley Rd,Sneedville,TN,37869,Hancock County,4828544,Verified,Alayah,Brown,8/27/2012,Female,White,a2xf300000Aj8JbAAJ,a2wf300000HNOOZAA5,Hancock County Schools (TN)
+Melanie,Ailey,melanieailey@att.net,4233008460,Confirmed,536 Ferguson Cemetery Rd,Sneedville,TN,37869,Hancock Elementary,4459712,Verified,Dominic,Ailey,1/15/2013,Male,White,a2xf300000Aj7djAAB,a2wf300000HNO8uAAH,Hancock County Schools (TN)
+Shawna,Martin,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,441 Sunset Hls,Sneedville,TN,37869,HCES,4440828,Verified,Travis,Wade,7/13/2015,,,a2xf300000Aj8ZxAAJ,a2wf300000HNOgIAAX,Hancock County Schools (TN)
+Rachel,Linden,nolan.campbell@hcsk12.com,865-771-0251,Confirmed,383 Grandview Dr,Sneedville,TN,37869,HCMHS,6Y3RFX8IB,New Entry / Not Yet Requested,Lauren,Linden,8/1/2002,Female,,a2xf300000Aj9ECAAZ,a2wf300000HNP4FAAX,Hancock County Schools (TN)
+Angela,Rasnic,angela.rasnic@hcsk12.com,4237331762,Confirmed,1634 Copper Ridge Rd,Thorn Hill,TN,37881,Hancock Middle/High Schoo,3624628,Verified,Morgan,Rasnic,12/15/2005,,,a2xf300000Aj96SAAR,a2wf300000HNOzeAAH,Hancock County Schools (TN)
+Alicia,Carroll,alicia@carroll.nrl,4233008547,Confirmed,4053 Main St,Sneedville,TN,37869,HANCOCK middle,L7juzyyyr,New Entry / Not Yet Requested,Ella carroll,Bronson Carroll,6/16/2008,,,a2xf300000Aj9HaAAJ,a2wf300000HNP5wAAH,Hancock County Schools (TN)
+Randy,Surgenor,randysurgenor@randysurgenor.nrl,(423)300-9338,Confirmed,256 Nora Alder Dr,Sneedville,TN,37869,Hancock Elementary,4749768,Verified,Rhealyn,Surgenor,4/30/2013,,,a2xf300000Aj7c3AAB,a2wf300000HNOAlAAP,Hancock County Schools (TN)
+Julia,Lewis,misty.rasnic@hcsk12.com,423-300-7292,Confirmed,2018 Black Valley Rd,Sneedville,TN,37869,Hancock County Elementary,5416433,Verified,Nathaniel,Lewis,8/24/2009,Male,White,a2xf300000Aj8yxAAB,a2wf300000HNOw1AAH,Hancock County Schools (TN)
+Whitney,Bolden,lec101812@gmail.com,(423)300-0142,Confirmed,143 Aaron Ln,Sneedville,TN,37869,Hancock Early Learning,0,Verified,Christian,McCoy,1/8/2016,,,a2xf300000Aj7kLAAR,a2wf300000HNOCcAAP,Hancock County Schools (TN)
+Trisha,Rose,jane@doe.nrl,(423) 300-7477,Confirmed,1493 Alder Rd,Kyles Ford,TN,37765,Hancock County High,QU1G2VWM2,Verified,Julie,Rose,5/11/2005,,,a2xf300000Aj9BUAAZ,a2wf300000HNP6WAAX,Hancock County Schools (TN)
+Cindy,Spradlin,shawna.mcdonald@hcsk12.com,4239731025,Confirmed,184 Big Creek Rd,Sneedville,TN,37869,HCES,0,Not Required,Tony,Ramsey,5/1/2007,Male,Native Hawaiian or Other Pacific Islander; White,a2xf300000Aj8IIAAZ,a2wf300000HNOVyAAP,Hancock County Schools (TN)
+Marissa,Ferguson,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,707 Big Creek Rd,Sneedville,TN,37869,HCELC,2000930,Verified,Eli,Ferguson,1/10/2015,,,a2xf300000Aj8beAAB,a2wf300000HNOhGAAX,Hancock County Schools (TN)
+Kayla,Williams,klwilliams1220@gmail.com,4233001012,Confirmed,725 W Short Mountain Rd,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Cayson,Williams,,Male,White,a2xf300000Aj8byAAB,a2wf300000HNOhVAAX,Hancock County Schools (TN)
+Edith,Mullins,kyliemullins2017@gmail.com,4237331947,Confirmed,2860 Horton Ford Rd,Eidson,TN,37731,Hancock County High Schoo,3446338,Verified,Kylie,Mullins,12/28/2002,Prefer Not to Answer,Not Listed,a2xf300000Aj9BNAAZ,a2wf300000HNOwRAAX,Hancock County Schools (TN)
+Christina,Schettler,misty.rasnic@hcsk12.com,865-585-7655,Confirmed,106 Hilltop Est,Sneedville,TN,37869,Hancock County Elementary,2000822,Verified,Kelsie,Bolden,4/30/2010,Female,White,a2xf300000Aj8QCAAZ,a2wf300000HNOaoAAH,Hancock County Schools (TN)
+Wanda,Shults,misty.rasnic@hcsk12.com,423-300-5505,Confirmed,1182 Prospect Rd,Sneedville,TN,37869,Hancock County Elementary,2000973,Verified,Ava,Matlock,12/22/2012,Female,White,a2xf300000Aj942AAB,a2wf300000HNOybAAH,Hancock County Schools (TN)
+Dawn,Slone,angela.rasnic@hcsk12.com,4237331762,Confirmed,2241 W Trent Valley Rd,Sneedville,TN,37869,HCELC,0,Not Required,Ellie,Slone,10/18/2018,,,a2xf300000Aj9AjAAJ,a2wf300000HNP0JAAX,Hancock County Schools (TN)
+Janice,Johnson,misty.rasnic@hcsk12.com,423-300-0485,Confirmed,168 Whitney Cir Apt 141,Sneedville,TN,37869,Hancock County Elementary,2000120,Verified,Mason,Johnson,4/9/2011,Male,White,a2xf300000Aj8mmAAB,a2wf300000HNOoMAAX,Hancock County Schools (TN)
+Samantha,Irvin,misty.rasnic@hcsk12.com,276-595-5251,Confirmed,167 Godfriaux Gulch Rd,Kyles Ford,TN,37765,Hancock Middle School,5070061,Verified,Wyatt,Cotton,7/25/2008,Male,White,a2xf300000Aj8i6AAB,a2wf300000HNOlcAAH,Hancock County Schools (TN)
+Mark,Hatfield,nolan.campbell@hcsk12.com,423-300-0614,Confirmed,4519 Tazewell Hwy,Sneedville,TN,37869,HCMHS,17LI9EAK8,New Entry / Not Yet Requested,Preston,Hatfield,12/14/2001,Male,,a2xf300000Aj94bAAB,a2wf300000HNOtnAAH,Hancock County Schools (TN)
+Tracey,Johnson,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,600 Rhea Hollow Rd,Sneedville,TN,37869,HCELC,2000900,Verified,Killian,Johnson,12/5/2014,,,a2xf300000Aj9G8AAJ,a2wf300000HNP5IAAX,Hancock County Schools (TN)
+Kimberly,Martin,kimberlydmartin13@gmail.com,4233000768,Confirmed,423 Dogwood Hts,Sneedville,TN,37869,Hancock Elementary,4881598,Verified,Riley,Russell,8/7/2013,,,a2xf300000Aj8iWAAR,a2wf300000HNOnUAAX,Hancock County Schools (TN)
+Christopher,Johnson,jane@doe.nrl,(423) 300-3980,Confirmed,157 Mullins Dr,Sneedville,TN,37869,Hancock County High,CUEKXI9R1,Verified,Chase,Johnson,4/7/2005,,,a2xf300000Aj98jAAB,a2wf300000HNP1QAAX,Hancock County Schools (TN)
+Dorothy,Hamilton,nolan.campbell@hcsk12.com,423-300-1822,Confirmed,1940 Main St,Sneedville,TN,37869,HCMHS,F3XW1Z4TC,New Entry / Not Yet Requested,Angel,Hamilton,3/14/2002,Female,,a2xf300000Aj8wDAAR,a2wf300000HNOuFAAX,Hancock County Schools (TN)
+Tammy,Lamb,tammy.lamb@hcsk12.com,4233009048,Confirmed,615 Ridgeview Ln,Sneedville,TN,37869,Hancock County High Schoo,3795385,Verified,Parker,Lamb,2/2/2004,Prefer Not to Answer,Not Listed,a2xf300000Aj9CpAAJ,a2wf300000HNP3RAAX,Hancock County Schools (TN)
+Rose,Seals,jane@doe.nrl,(423) 733-2586,Confirmed,6190 War Creek Rd,Thorn Hill,TN,37881,Hancock County High,H5HDNPHYG,Verified,Marla,Seals,1/22/2005,,,a2xf300000Aj9AyAAJ,a2wf300000HNP2YAAX,Hancock County Schools (TN)
+Amanda,Helton,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,2247 Highway 31,Sneedville,TN,37869,HCELC,2001207,Verified,Nathan,Helton,5/5/2015,,,a2xf300000Aj9HkAAJ,a2wf300000HNP66AAH,Hancock County Schools (TN)
+Cheyenne,Haase,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,1345 Cool Branch Rd,Sneedville,TN,37869,Hancock Elementary,4637435,Verified,Zephyr,Brown,8/4/2011,,,a2xf300000Aj9eLAAR,a2wf300000HNPJKAA5,Hancock County Schools (TN)
+Tonya,Baker,brandon.gibbs@hcsk12.com,423-300-9270,Confirmed,2295 Roberts Rd,Sneedville,TN,37869,Hancock high,0,New Entry / Not Yet Requested,Skyler,Baker,9/21/2004,Female,White,a2xf300000AjAA6AAN,a2wf300000HNPP9AAP,Hancock County Schools (TN)
+Jana,Lewis,jana@lewis.nrl,4233004855,Confirmed,3323 Duck Creek Rd,Sneedville,TN,37869,HANCOCK middle,5067412,New Entry / Not Yet Requested,Ava,Lewis,8/30/2008,,,a2xf300000Aj9SKAAZ,a2wf300000HNPFnAAP,Hancock County Schools (TN)
+Beth,Martin,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,1634 Main St,Sneedville,TN,37869,HCELC,2001210,Verified,Meredith,Martin,3/10/2015,,,a2xf300000Aj9aJAAR,a2wf300000HNP9fAAH,Hancock County Schools (TN)
+Vonita,Roark,vinita@roark.nrl,4233005007,Confirmed,1962 Swan Creek Rd,Sneedville,TN,37869,HANCOCK middle,543108,New Entry / Not Yet Requested,Dakota,Roark,10/17/2007,,,a2xf300000Aj9irAAB,a2wf300000HNPNWAA5,Hancock County Schools (TN)
+Angela,Olivarez,sherry.hunt@hcsk12.com,4233001316,Confirmed,644 Trent Valley Rd,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Anna,Olivarez,,Female,,a2xf300000Aj9QDAAZ,a2wf300000HNOaBAAX,Hancock County Schools (TN)
+Rita,Harrington,nolan.campbell@hcsk12.com,865-296-4923,Confirmed,2730 Rackum Rd,Thorn Hill,TN,37881,HCMHS,N86I8IOUG,New Entry / Not Yet Requested,Brandon,Meadows,6/15/2002,Male,,a2xf300000Aj9QNAAZ,a2wf300000HNPBLAA5,Hancock County Schools (TN)
+Brianna,Spillman,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,171 Jones Rd,Sneedville,TN,37869,HCES,4626650,Verified,Ryleigh,Spillman,10/25/2012,,,a2xf300000Aj9RBAAZ,a2wf300000HNPBfAAP,Hancock County Schools (TN)
+Vaness,Reed,vanessareed55@yahoo.com,4233001446,Confirmed,830 Swan Creek Rd,Sneedville,TN,37869,HCES,4526099,New Entry / Not Yet Requested,Mason,Reed,,Male,White,a2xf300000AjAV5AAN,a2wf300000HNQXMAA5,Hancock County Schools (TN)
+Sue,Cole,brandon.gibbs@hcsk12.com,423-300-8759,Confirmed,423 Dogwood Hts,Sneedville,TN,37869,Hancock Elementary,0,Verified,Sam,Cole,3/16/2004,,,a2xf300000AjAebAAF,a2wf300000HNQcHAAX,Hancock County Schools (TN)
+Brittany,Williams,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,642 Hedden Way,Thorn Hill,TN,37881,HCELC,2001220,Verified,Donald,White,3/5/2015,,,a2xf300000Aj94rAAB,a2wf300000HNP9FAAX,Hancock County Schools (TN)
+Amanda,Collins,amsnda@collins.nrl,4233003113,Confirmed,3003 Cantwell Valley Rd,Sneedville,TN,37869,Haa as nock middle,5059896,New Entry / Not Yet Requested,Brain,Collins,10/27/2007,,,a2xf300000Aj9OiAAJ,a2wf300000HNPAcAAP,Hancock County Schools (TN)
+Seal,Kayla,leisarogers@gmail.com,(423)733-1762,Confirmed,1889 Stoney Gap Rd,Sneedville,TN,37869,HES,4521732,Verified,Nathaniel,Seal,4/17/2012,,,a2xf300000Aj9tjAAB,a2wf300000HNPPEAA5,Hancock County Schools (TN)
+Kimberly,Martin,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,423 Dogwood Hts,Sneedville,TN,37869,Hancock High School,3806667,Verified,Joseph,Martin,1/29/2004,,,a2xf300000Aj9pNAAR,a2wf300000HNPPcAAP,Hancock County Schools (TN)
+Toshia,Riggs,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,433 Trents Chapel Rd,Sneedville,TN,37869,Hancock High School,3406747,Verified,Tara,Riggs,3/18/2002,,,a2xf300000AjA2lAAF,a2wf300000HNPWJAA5,Hancock County Schools (TN)
+Maggie,Cole,darlenecole68@yahoo.com,(423)530-2027,Confirmed,5805 Alder Rd,Kyles Ford,TN,37765,Hancock,0,New Entry / Not Yet Requested,Emma,Cole,12/19/2017,,,a2xf300000AjA4nAAF,a2wf300000HNPbEAAX,Hancock County Schools (TN)
+Cameron,Kayla,leisarogers@gmail.com,(423)733-1762,Confirmed,216 Hopkins St,Sneedville,TN,37869,HES,4856314,Verified,Hadley,Cameron,2/3/2014,,,a2xf300000Aj9wxAAB,a2wf300000HNPTUAA5,Hancock County Schools (TN)
+Georgia,Seal,sue.carney@hcsk12.com,423-973-1103,Confirmed,149 Wanola St,Sneedville,TN,37869,hancock cty middle/high,2000010,Verified,Trysta,Collins,7/27/2006,Female,White,a2xf300000Aj9N0AAJ,a2wf300000HNPBuAAP,Hancock County Schools (TN)
+Rick,Stewart,rick@stewart.nrl,8658981090,Confirmed,460 Nichols Rd,Sneedville,TN,37869,Hancock Middle,2000357,New Entry / Not Yet Requested,Ashley,Stewart,3/27/2008,,,a2xf300000AjAVAAA3,a2wf300000HNQXRAA5,Hancock County Schools (TN)
+Shasta,Cope,sherry.hunt@hcsk12.com,4233009207,Confirmed,179 Beech St,Sneedville,TN,37869,Hancock County High,0,Verified,Shasta,Cope,,Female,White,a2xf300000Aj9WQAAZ,a2wf300000HNPEUAA5,Hancock County Schools (TN)
+Vanessa,Stricklin,vanessaann1986@yahoo.com,7314382657,Confirmed,105 Beech St,Savannah,TN,38372,Hardin county middle scho,0,,Billy,Stricklin,9/4/2007,Male,White,a2xf300000AjAfAAAV,a2wf300000HNQcWAAX,Hancock County Schools (TN)
+Kasey,Brewer,shawna.mcdonald@hcsk12.com,(423)300-9144,Confirmed,138 Chelony Jon Ln,Sneedville,TN,37869,HCMS,4019474,Verified,Brantley,Brewer,3/20/2007,Male,White,a2xf300000Aj9mGAAR,a2wf300000HNQdoAAH,Hancock County Schools (TN)
+Kim,Ferguson,brandon.gibbs@hcsk12.com,423-300-9147,Confirmed,4452 Cantwell Valley Rd,Sneedville,TN,37869,Hancock Co High,4277457,Verified,Joe,Ferguson,11/14/2003,Male,White,a2xf300000AjA4SAAV,a2wf300000HNPOgAAP,Hancock County Schools (TN)
+Leisa,Rogers,leisarogers@gmail.com,(423)733-1762,Confirmed,3815 Highway 131,Washburn,TN,37888,HCELC,0,New Entry / Not Yet Requested,Micah,Rogers,3/17/2019,,,a2xf300000AjAL0AAN,a2wf300000HNQR4AAP,Hancock County Schools (TN)
+Sherry,Antrican,kaitlyn.harrison@hcsk12.com,423-973-1692,Confirmed,2819 Chinquipin Rd,Sneedville,TN,37869,Hancock Middle/High,4140040,Verified,Sarah,Antrican,1/5/2007,Female,,a2xf300000AjARmAAN,a2wf300000HNQVVAA5,Hancock County Schools (TN)
+Jillian,Monroe,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,1777 Chinquipin Rd,Sneedville,TN,37869,HCES,4320307,Verified,Jazalyn,Monroe,10/28/2009,,,a2xf300000Aj9g1AAB,a2wf300000HNPJyAAP,Hancock County Schools (TN)
+Brenda,Johns,brenda@johns.nrl,8652019056,Confirmed,576 Rock Bridge Rd,Thorn Hill,TN,37881,Hancock Elementary School,4828542,Verified,Daniel,Johns,1/16/2013,Male,White,a2xf300000AjANzAAN,a2wf300000HNQSqAAP,Hancock County Schools (TN)
+Toby,Trent,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,610 Paul Trent Rd,Sneedville,TN,37869,HCELC,2001219,Verified,Brayden,Trent,10/1/2014,,,a2xf300000Aj9PbAAJ,a2wf300000HNPG6AAP,Hancock County Schools (TN)
+Woodward,Bruce,leisarogers@gmail.com,4237331762,Confirmed,2853 Clinch Valley Rd,Thorn Hill,TN,37881,HELC,4674006,Verified,Woodward,Benjamin,10/22/2014,,,a2xf300000Aj9anAAB,a2wf300000HNPMnAAP,Hancock County Schools (TN)
+Misty,Holt,misty222@hotmail.com,4239212667,Confirmed,1388 Highway 31,Mooresburg,TN,37811,Hancock Elementary,0,Verified,Zeb,Martin,,,,a2xf300000AjA51AAF,a2wf300000HNPRVAA5,Hancock County Schools (TN)
+Adam,Ferrell,adam@ferrell.nrl,(276)329-5373,Confirmed,168 Whitney Cir Apt 137,Sneedville,TN,37869,Hancock Elementary,4856321,Verified,Dillinger,Cruse,10/10/2013,Male,White,a2xf300000AjA9JAAV,a2wf300000HNQY0AAP,Hancock County Schools (TN)
+Aubrey,Roberts,aubrey@roberts.nrl,4237330099,Confirmed,2195 Main St,Sneedville,TN,37869,HANCOCK middle,5372576,New Entry / Not Yet Requested,Jayden,Roberts,7/7/2008,,,a2xf300000Aj9ojAAB,a2wf300000HNPPDAA5,Hancock County Schools (TN)
+Kimberly,Martin,brandon.gibbs@hcsk12.com,423-300-0768,Confirmed,423 Dogwood Hts,Sneedville,TN,37869,Hancock Co High,0,Verified,Joseph,Martin,1/29/2004,Male,White,a2xf300000Aj9ZFAAZ,a2wf300000HNPG1AAP,Hancock County Schools (TN)
+Sarah,Hopkins,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,200 Prospect Rd,Sneedville,TN,37869,Hancock Elementary,4199302,Verified,Bryson,Hopkins,1/23/2009,,,a2xf300000Aj9iEAAR,a2wf300000HNPROAA5,Hancock County Schools (TN)
+Scarlett,Horton,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,5934 Tazewell Hwy,Sneedville,TN,37869,Hancock Elementary,4437955,Verified,Ashlyn,Horton,11/10/2010,,,a2xf300000Aj9UAAAZ,a2wf300000HNPCtAAP,Hancock County Schools (TN)
+Teresa,Seal,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,3002 Tazewell Hwy,Sneedville,TN,37869,HCES,4309384,Verified,Hailey,Barger,9/5/2009,,,a2xf300000Aj9XYAAZ,a2wf300000HNPEtAAP,Hancock County Schools (TN)
+Harvey,bobby and Amanda,leisarogers@gmail.com,(423)733-1762,Confirmed,3674 Tazewell Hwy,Sneedville,TN,37869,HELC,4808944,New Entry / Not Yet Requested,Kobe,Harvey,7/13/2015,,,a2xf300000AjADeAAN,a2wf300000HNPcgAAH,Hancock County Schools (TN)
+Lindsie and Josh,Slone,leisarogers@gmail.com,(423)733-1762,Confirmed,137 W Trent Valley Rd,Sneedville,TN,37869,HELC,4808682,Verified,Cannan,Slone,6/8/2016,,,a2xf300000Aj9vvAAB,a2wf300000HNPWOAA5,Hancock County Schools (TN)
+Carl and Connie,Williams,leisarogers@gmail.com,4237331762,Confirmed,2683 Stoney Fork Rd,Sneedville,TN,37869,HELC,4557811,Verified,Elijah,Williams,10/10/2015,Male,White,a2xf300000Aj9gzAAB,a2wf300000HNPKXAA5,Hancock County Schools (TN)
+Teresa,Gibson,teresa@gibson.nrl,(423)300-2877,Confirmed,173 E Greenway St,Sneedville,TN,37869,Hancock Elementary,4946863,Verified,Nevaeh,Sharp,12/23/2013,Female,White,a2xf300000AjA9jAAF,a2wf300000HNQUNAA5,Hancock County Schools (TN)
+Renae,Johnson,renea@johnson.nrl,4233002130,Confirmed,270 Slate Hill Dr,Sneedville,TN,37869,Hancock Middle,5367994,New Entry / Not Yet Requested,Haven,Johnson,12/20/2007,Female,,a2xf300000AjANGAA3,a2wf300000HNQSMAA5,Hancock County Schools (TN)
+Shenna,Williams,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,180 Manor Dr Apt 4,Sneedville,TN,37869,HCELC,0,Not Required,Kyela,Barnett,9/7/2017,,,a2xf300000Aj9joAAB,a2wf300000HNPLzAAP,Hancock County Schools (TN)
+Jason,Collins,jason@collins.nrl,4239009116,Confirmed,419 Guy Seal Rd,Sneedville,TN,37869,HANCOCK middle,5604050,New Entry / Not Yet Requested,Maelee,Collins,11/5/2007,Female,,a2xf300000Aj9DZAAZ,a2wf300000HNP8bAAH,Hancock County Schools (TN)
+Jessica,Harris,jessica@harris.nrl,4233008755,Confirmed,433 Hillside St,Sneedville,TN,37869,Hancock Middle,5068010,New Entry / Not Yet Requested,John,Harris,3/26/2008,,,a2xf300000AjA5zAAF,a2wf300000HNPYUAA5,Hancock County Schools (TN)
+Amanda,Hechmer,amsnda@hechmer.nrl,4233008414,Confirmed,2080 Snake Hollow Rd,Sneedville,TN,37869,HANCOCK middle,5605034,New Entry / Not Yet Requested,Lacey,Hechmer,10/23/2007,,,a2xf300000Aj9OwAAJ,a2wf300000HNPCOAA5,Hancock County Schools (TN)
+Julie,Bowlin,christy.brewer@hcsk12.com,4237361292,Confirmed,165 Orchard Ln,Thorn Hill,TN,37881,Hancock Elementary School,FP7XQX418,New Entry / Not Yet Requested,Jonathan,Bowlin,,Male,White,a2xf300000AjAERAA3,a2wf300000HNPg4AAH,Hancock County Schools (TN)
+Alicia,Ellison,alicia@ellison.nrl,4237334583,Confirmed,1445 Wallen Town Rd,Kyles Ford,TN,37765,HANCOCK middle,5611540,New Entry / Not Yet Requested,Kaylee,Sizemore,7/23/2008,,,a2xf300000Aj9slAAB,a2wf300000HNPRJAA5,Hancock County Schools (TN)
+Trista,Seal,jacklyn.bailey@hcsk12.com,4233000274,Confirmed,2657 Highway 66,Sneedville,TN,37869,Hancock County Elementary,4828540,Verified,Jaxon,Seal,11/8/2012,,,a2xf300000AjAeWAAV,a2wf300000HNQcMAAX,Hancock County Schools (TN)
+Laurel,Pyne,laurel@pyne.nrl,(423)300-3450,Confirmed,1761 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock Elementary,4946862,Verified,Chanity,Pyne,7/13/2014,Female,White,a2xf300000AjASBAA3,a2wf300000HNQVpAAP,Hancock County Schools (TN)
+Jeffery,Greene,jeffery@greene.nrl,(423)724-7782,Confirmed,182 Yount Town Rd,Thorn Hill,TN,37881,Hancock Elementary,4850622,Verified,Millie,Greene,2/10/2014,,,a2xf300000AjAZ2AAN,a2wf300000HNQZhAAP,Hancock County Schools (TN)
+Amy,Nease,amy@nease.nrl,4233009101,Confirmed,241 Jarvis St,Sneedville,TN,37869,HANCOCK middle,5054100,New Entry / Not Yet Requested,Riley,Nease,10/19/2007,,,a2xf300000Aj9kcAAB,a2wf300000HNP9gAAH,Hancock County Schools (TN)
+Derrick,Swiney,shawna.mcdonald@hcsk12.com,4233008521,Confirmed,258 Charles St,Sneedville,TN,37869,HCMS,0,Verified,McKennley,Swiney,7/28/2005,Female,White,a2xf300000AjA1xAAF,a2wf300000HNPRUAA5,Hancock County Schools (TN)
+Royston,Jenna,leisarogers@gmail.com,(423)733-1762,Confirmed,3882 Tazewell Hwy,Sneedville,TN,37869,HELC,4705211,Verified,Tava,Royston,10/28/2015,,,a2xf300000Aj9zNAAR,a2wf300000HNPUrAAP,Hancock County Schools (TN)
+Ashley,Carroll,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,2973 Chinquipin Rd,Sneedville,TN,37869,HCELC,4705409,Verified,Tessa,Carroll,1/12/2015,,,a2xf300000AjAoqAAF,a2wf300000HNQbPAAX,Hancock County Schools (TN)
+Sherry,Trent,sherry@trent.nrl,4233008793,Confirmed,176 W Greenway St,Sneedville,TN,37869,HANCOCK middle,5526078,New Entry / Not Yet Requested,Shelby,Trent,4/9/2008,,,a2xf300000Aj9ggAAB,a2wf300000HNPSRAA5,Hancock County Schools (TN)
+Misty,Parks,misty@parks.nrl,(423)300-9514,Confirmed,3387 Main St,Sneedville,TN,37869,Hancock Elementary,4850625,Verified,Dalla,Parks,6/19/2014,Female,White,a2xf300000AjAPDAA3,a2wf300000HNQWdAAP,Hancock County Schools (TN)
+Amanda,Van Order,christy.brewer@hcsk12.com,606-670-0644,Confirmed,108 Collins St,Sneedville,TN,37869,Hancock Elementary School,0,New Entry / Not Yet Requested,Kyndra,Van Order,7/29/2011,Female,White,a2xf300000AjCuHAAV,a2wf300000HNRnyAAH,Hancock County Schools (TN)
+Tiffany,Alder,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed,204 Willow St,Sneedville,TN,37869,HCELC,4764121,Verified,Avery,Eldridge,7/6/2015,,,a2xf300000AjB03AAF,a2wf300000HNQnAAAX,Hancock County Schools (TN)
+Louise,Mathis,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed,572 Barnard Hollow Rd,Sneedville,TN,37869,Hancock Elementary,4526101,Verified,Khloe,Johnson,6/27/2012,,,a2xf300000AjAwLAAV,a2wf300000HNQl0AAH,Hancock County Schools (TN)
+Lindsey,Purkey,whitney.fleenor@hcsk12.com,4233003170,Confirmed,222 Hopkins St,Sneedville,TN,37869,Hancock Elementary,4523903,,Tanner,Smith,,Male,White,a2xf300000AjCh3AAF,a2wf300000HNRhbAAH,Hancock County Schools (TN)
+Kendra,Riggs,kendra@riggs.nrl,(423)300-8385,Confirmed,326 Seal Ave,Sneedville,TN,37869,Hancock Elementary,0,Verified,Brayden,Riggs,1/5/2012,Male,White,a2xf300000AjBKmAAN,a2wf300000HNQy4AAH,Hancock County Schools (TN)
+Julie,Heck,heck.julie@yahoo.com,423-300-4104,Confirmed,1305 Copper Ridge Rd,Thorn Hill,TN,37881,Hancock High,0,Verified,Ethan,Heck,5/18/2006,Male,White,a2xf300000AjBQDAA3,a2wf300000HNR4HAAX,Hancock County Schools (TN)
+Jessica,Dalton,nolan.campbell@hcsk12.com,423-277-0468,Confirmed,7988 Highway 31,Thorn Hill,TN,37881,HCMHS,P1GOX1HD7,New Entry / Not Yet Requested,Cassi,Dalton,6/28/2005,Female,,a2xf300000AjBlPAAV,a2wf300000HNRFdAAP,Hancock County Schools (TN)
+Katilin,Johnson,katilinjohnson0@gmail.com,(423)300-5150,Confirmed,944 Swan Creek Rd,Sneedville,TN,37869,Hancock Elementary,4626652,Verified,Sadie,Collins,,Female,White,a2xf300000AjC3NAAV,a2wf300000HNRNDAA5,Hancock County Schools (TN)
+Jennifer,Willis,jenwillis30@gmail.com,423-724-6422,Confirmed,2217 Wallen Town Rd,Kyles Ford,TN,37765,Hancock County High,3699651,Verified,Chloie,Martin,11/25/2004,Female,White,a2xf300000AjBOHAA3,a2wf300000HNRBgAAP,Hancock County Schools (TN)
+Tommy,King,tommyking@gmail.com,(423)300-8552,Confirmed,393 Swan Creek Rd,Sneedville,TN,37869,Hancock Middle,4158960,Verified,Connor,King,,Male,White,a2xf300000AjBp6AAF,a2wf300000HNRGCAA5,Hancock County Schools (TN)
+Jackie,Ridley,whitney.fleenor@hcsk12.com,4239731587,Confirmed,118 Dwight Ln,Sneedville,TN,37869,Hancock Middle School,4099784,New Entry / Not Yet Requested,Christopher,Ridley,,Male,White,a2xf300000AjCbUAAV,a2wf300000HNRehAAH,Hancock County Schools (TN)
+Rachel,Seal,sue.carney@hcsk12.com,300-2262,Confirmed,1995 Stoney Gap Rd,Sneedville,TN,37869,hancock elementary,0,Verified,Allie,Seal,11/9/2009,Female,White,a2xf300000AjBYZAA3,a2wf300000HNR7AAAX,Hancock County Schools (TN)
+Heather,Kenyon,gnhkenyon@gmail.com,254-833-2829,Confirmed,10885 Kyles Ford Hwy,Kyles Ford,TN,37765,Hancock Middle,4850619,Verified,Keira,Kenyon,6/7/2006,Female,White,a2xf300000AjBlsAAF,a2wf300000HNREBAA5,Hancock County Schools (TN)
+Kayla,Strange,daisy.greene@hcsk12.com,4237331762,Confirmed,2940 Cantwell Valley Rd,Sneedville,TN,37869,HCELC,4974773,Verified,Faith,Strange,9/9/2014,,,a2xf300000AjB5SAAV,a2wf300000HNQqHAAX,Hancock County Schools (TN)
+Eric,McDonald,shawna.mcdonald@hcsk12.com,4233009234,Confirmed,230 Eagle Rdg,Sneedville,TN,37869,HCES,0,Verified,Anna,McDonald,10/1/2013,Female,White,a2xf300000AjBRYAA3,a2wf300000HNR33AAH,Hancock County Schools (TN)
+Kayla,Strange,daisy.greene@hsck12.com,(423)733-1762,Confirmed,2940 Cantwell Valley Rd,Sneedville,TN,37869,HCHS,3405479,Verified,Madison,Strange,,,,a2xf300000AjB2xAAF,a2wf300000HNQouAAH,Hancock County Schools (TN)
+Patricia,Demyan,trishdemyan@gmail.com,(423)973-1069,Confirmed,213 Reservoir Rd,Sneedville,TN,37869,Hancock Middle,3861279,Verified,Scarlett,Hamby,,Female,White,a2xf300000AjBmHAAV,a2wf300000HNREQAA5,Hancock County Schools (TN)
+Julia,Booker,silverk_99@yahoo.com,423-300-2675,Confirmed,822 Main St,Sneedville,TN,37869,Hancock County High Schoo,0,Verified,Austin,Booker,12/2/2003,Male,White,a2xf300000AjBLQAA3,a2wf300000HNQytAAH,Hancock County Schools (TN)
+Angela,Mullins,angela@mullins.nrl,423-300-2694,Confirmed,10118 Tazewell Hwy,Sneedville,TN,37869,Hancock County High Schoo,4826174,New Entry / Not Yet Requested,Chandra,Mullins,8/2/2005,Female,White,a2xf300000AjByNAAV,a2wf300000HNRKxAAP,Hancock County Schools (TN)
+Amy,Dunsmore,amysdunsmore@gmail.com,423-733-5123,Confirmed,525 Dogwood Hts,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,isaac,Dunsmore,1/1/2009,Male,White,a2xf300000AjCHeAAN,a2wf300000HNRUcAAP,Hancock County Schools (TN)
+Robert,Brooks,robert@brooks.nrl,4233000646,Confirmed,4194 Powell River Rd,Tazewell,TN,37879,Hancock High,4278391,Verified,Hunter,Brooks,8/30/2002,,,a2xf300000AjCIcAAN,a2wf300000HNRV6AAP,Hancock County Schools (TN)
+Marsha,Christian,samantha.wallen@hcsk12.com,(423) 300-9193,Confirmed,222 Highland Dr,Sneedville,TN,37869,Hancock middle,3968507,New Entry / Not Yet Requested,Emily,Dean,4/29/2007,Female,White,a2xf300000AjBQ1AAN,a2wf300000HNR2KAAX,Hancock County Schools (TN)
+Onofre,Santana,onofre@santana.nrl,4233077017,Confirmed,2817 Pawpaw Rd,Thorn Hill,TN,37881,HCES,4435194,Verified,Dylan,Hernandez-Santana,10/14/2011,Male,Hispanic or Latino/a,a2xf300000AjCWjAAN,a2wf300000HNRcCAAX,Hancock County Schools (TN)
+Johnny,Langley,johnny@langley.nrl,423-300-3437,Confirmed,2021 Mulberry Gap Rd,Sneedville,TN,37869,Hancock County High Schoo,2009256,New Entry / Not Yet Requested,Destiny,Langley,7/19/2005,Female,White,a2xf300000AjCDJAA3,a2wf300000HNRTPAA5,Hancock County Schools (TN)
+Nathan,Hopkins,nhop1379@yahoo.com,4233009471,Confirmed,287 Albert Hopkins Rd,Sneedville,TN,37869,Hancock high,4554868,Verified,Anna,Hopkins,12/6/2004,Female,White,a2xf300000AjCPJAA3,a2wf300000HNRYeAAP,Hancock County Schools (TN)
+Samantha,Hileman,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed,879 Paul Trent Rd,Sneedville,TN,37869,HCELC,4967224,Verified,Braxton,Hileman,2/13/2015,,,a2xf300000AjAt7AAF,a2wf300000HNQjIAAX,Hancock County Schools (TN)
+Carl,Koch,carlkoch@gmail.com,423-259-1156,Confirmed,205 Otis Greene Dr,Sneedville,TN,37869,Hancock County High,47818888,Verified,Charles,Koch,12/15/2004,Male,White,a2xf300000AjBoSAAV,a2wf300000HNRFYAA5,Hancock County Schools (TN)
+Keesha,McFarland,keesha_belcher@yahoo.com,4233008075,Confirmed,327 Big Creek Rd,Sneedville,TN,37869,Hancock Elementary,4308153,Verified,Jackson,McFarland,11/1/2010,Male,White,a2xf300000AjBgiAAF,a2wf300000HNRBHAA5,Hancock County Schools (TN)
+Misty,Carroll,mistyeldridgecarroll@gmail.com,423-300-1864,Confirmed,355 Mack Lamb Rd,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Hayden,Eldridge,1/28/2013,Male,White,a2xf300000AjBPSAA3,a2wf300000HNR1qAAH,Hancock County Schools (TN)
+Chris,Lyons,chris@lyons.nrl,423-300-1484,Confirmed,3722 Newmans Ridge Rd,Sneedville,TN,37869,Hancock County High Schoo,4910394,New Entry / Not Yet Requested,Alyssa,Lyons,3/22/2005,Female,White,a2xf300000AjC89AAF,a2wf300000HNRPYAA5,Hancock County Schools (TN)
+Patricia,Seal,patricia@seal.nrl,423-300-9207,Confirmed,179 Beech St,Sneedville,TN,37869,3806747,3806747,Verified,Shaylyn,Cope,10/20/2005,Female,White,a2xf300000AjBd1AAF,a2wf300000HNRAxAAP,Hancock County Schools (TN)
+Jamie,Johnson,daisy.greene@hcsk12.com,4237331274,Confirmed,151 Keaton Ln,Sneedville,TN,37869,HCELC,4967225,Verified,Mason,Johnson,3/8/2015,,,a2xf300000AjAzPAAV,a2wf300000HNQmbAAH,Hancock County Schools (TN)
+Christa,Lamb,jane@doe.nrl,(423) 733-1599,Confirmed,616 Ridgeview Ln,Sneedville,TN,37869,Hancock County High,MZWLECUQL,Verified,Lacey,Lamb,7/5/2005,,,a2xf300000AjCTVAA3,a2wf300000HNRakAAH,Hancock County Schools (TN)
+Crystal,Cope,crystal@cope.nrl,423-300-3954,Confirmed,107 Cemetery St,Sneedville,TN,37869,4036306,4036306,Verified,Braeden,Cope,12/19/2005,Male,White,a2xf300000AjBkLAAV,a2wf300000HNRDNAA5,Hancock County Schools (TN)
+Sybil,Bell,brysyb13@gmail.com,4237339885,Confirmed,3860 Snake Hollow Rd,Sneedville,TN,37869,Hancock County Elementary,4317323,Verified,Trent,Bell,1/7/2011,Male,,a2xf300000AjCB7AAN,a2wf300000HNRQlAAP,Hancock County Schools (TN)
+Hannah,Sexton,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,217 Nora Alder Dr,Sneedville,TN,37869,0,0,Not Required,Anakin,Sexton,7/15/2018,,,a2xf300000AjBFrAAN,a2wf300000HNQvMAAX,Hancock County Schools (TN)
+Kelli,Mull,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed,3310 Duck Creek Rd,Sneedville,TN,37869,HCELC,4853594,Verified,Gabriel,Mull,5/21/2015,,,a2xf300000AjBH4AAN,a2wf300000HNQwFAAX,Hancock County Schools (TN)
+Bertha,Seal,angela.rasnic@hcsk12.com,423-733-1762,Confirmed,5222 Caney Valley Rd,Sneedville,TN,37869,HCELC,4974770,Verified,Benlee,Seal,2/26/2015,,,a2xf300000AjAcHAAV,a2wf300000HNQhrAAH,Hancock County Schools (TN)
+Brian,Boynton,brian@boynton.nrl,9788943830,Confirmed,720 Carroll Rd,Sneedville,TN,37869,4161791,4161791,New Entry / Not Yet Requested,rebecca,boynton,12/30/2006,Female,,a2xf300000AjB33AAF,a2wf300000HNQsmAAH,Hancock County Schools (TN)
+Casey,Hill,ch4237367565@gmail.com,(423)973-1171,Confirmed,3352 Tazewell Hwy,Sneedville,TN,37869,Hancock Middle,4257508,Verified,Hayden,Hill,,Male,White,a2xf300000AjBoNAAV,a2wf300000HNRFTAA5,Hancock County Schools (TN)
+kayla,sizemore,kaylasizemore88@gmail.com,423-300-2979,Confirmed,950 Jack Trent Rd,Sneedville,TN,37869,Hancock County Elementary,2MONWZ8OS,New Entry / Not Yet Requested,Haylee,Teal,3/22/2011,Female,White,a2xf300000AjC9LAAV,a2wf300000HNRQ7AAP,Hancock County Schools (TN)
+Carolyn,McCoy,carolynmccoy25@gmail.com,423-733-5166,Confirmed,1218 Singleton Rd,Sneedville,TN,37869,Hancock Middle,0,Verified,Skyla,McCoy,6/9/2008,Female,White,a2xf300000AjBdUAAV,a2wf300000HNR9zAAH,Hancock County Schools (TN)
+Melanie,Stanifer,mullinsmelanie@hotmail.com,(423)300-9198,Confirmed,358 Maple Rd,Sneedville,TN,37869,Hancock Middle school,0,Verified,Emerson,Stanifer,9/21/2006,Male,White,a2xf300000AjBNbAAN,a2wf300000HNR0EAAX,Hancock County Schools (TN)
+Raven,Riggs,daisy.greene@hcsk12.com,4237331762,Confirmed,166 Mountain View Ln,Sneedville,TN,37869,0,0,Not Required,Addison,Spillman,4/25/2019,,,a2xf300000AjCOLAA3,a2wf300000HNRYAAA5,Hancock County Schools (TN)
+Jonah,Belcher,daisy.greene@hcsk12.com,(423)733-1762,Confirmed,874 Main St,Sneedville,TN,37869,HCES,4438234,Verified,Kaden,Belcher,12/20/2011,,,a2xf300000AjBMiAAN,a2wf300000HNQzfAAH,Hancock County Schools (TN)
+Heidi,LaBlue,heidi@lablue.nrl,757-377-1906,Confirmed,6930 Chestnut Ridge Rd,Eidson,TN,37731,Hancock County High Schoo,2000283,New Entry / Not Yet Requested,Elizabeth,LaBlue,1/30/2004,Female,White,a2xf300000AjC20AAF,a2wf300000HNRMZAA5,Hancock County Schools (TN)
+Kevin,Collins,misty.laprade@hcsk12.com,423-973-1534,Confirmed,1880 Cantwell Valley Rd,Sneedville,TN,37869,Hancock County High,368816,Verified,Brian,Collins,4/17/2003,Male,White,a2xf300000AjBj3AAF,a2wf300000HNRCZAA5,Hancock County Schools (TN)
+Samantha,Sexton,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed,391 Hillside St,Sneedville,TN,37869,HCELC,4965885,Verified,Silan,Sexton,12/16/2014,,,a2xf300000AjBL6AAN,a2wf300000HNQyjAAH,Hancock County Schools (TN)
+Jessica,Brown,amy.harrell@hcsk12.com,4233008648,Confirmed,1723 Cool Branch Rd,Sneedville,TN,37869,Hancock County Elementary,QZSB61XZY,Verified,Ryan,Brown,6/29/2010,Male,,a2xf300000AjBeSAAV,a2wf300000HNRAOAA5,Hancock County Schools (TN)
+Angie,Gibson,rassgibson22@yahoo.com,4233009298,Confirmed,329 Jarvis St,Sneedville,TN,37869,Hancock county high,3688015,Verified,Shayden,Gibson,4/17/2003,Male,White,a2xf300000AjCFnAAN,a2wf300000HNRTeAAP,Hancock County Schools (TN)
+Crystal,Collins,crystal@collins.nrl,423-300-804083,Confirmed,836 Winstead Rd,Thorn Hill,TN,37881,5046941,5046941,Verified,Chelsea,Glover,7/18/2006,Female,,a2xf300000AjBGaAAN,a2wf300000HNQvqAAH,Hancock County Schools (TN)
+Chasity,Williams,sue.carney@hcsk12.com,423-300-4995,Confirmed,140 Whitney Cir Apt 175,Sneedville,TN,37869,Hancock cty middle/high,5372163,Verified,Phil,Nichols,5/11/2007,Male,White,a2xf300000AjAp1AAF,a2wf300000HNQkQAAX,Hancock County Schools (TN)
+Tiffany,Mckinney,tiffany@mckinney.nrl,4232932205,Confirmed,258 Charles St,Sneedville,TN,37869,Hancock Middle,QMKQQKC96,New Entry / Not Yet Requested,Briahna,Lawson,10/30/2007,,,a2xf300000AjAqYAAV,a2wf300000HNQs8AAH,Hancock County Schools (TN)
+Debbie,Dawson,debbiemichelle30@gmail.com,4233004408,Confirmed,170 Mill Dam Rd,Sneedville,TN,37869,Hancock County Elementary,4223623,New Entry / Not Yet Requested,Ashlyne,Dawson,12/26/2010,Female,,a2xf300000AjCPxAAN,a2wf300000HNRYyAAP,Hancock County Schools (TN)
+Kayla,Seal,whitney.fleenor@hcsk12.com,4233008022,Confirmed,1889 Stoney Gap Rd,Sneedville,TN,37869,Hancock Elementary,4521732,New Entry / Not Yet Requested,Nathaniel,Seal,4/7/2011,Male,White,a2xf300000AjCiVAAV,a2wf300000HNRiPAAX,Hancock County Schools (TN)
+Lisa,Johnson,lisa@johnson.nrl,423-733-1211,Confirmed,1196 Deer Run Rd,Thorn Hill,TN,37881,4274190,0,New Entry / Not Yet Requested,Zachary,Johnson,12/30/2002,Male,White,a2xf300000AjBvYAAV,a2wf300000HNRJaAAP,Hancock County Schools (TN)
+Tarra,Simpson,misty.laprade@hcsk12.com,423-300-0221,Confirmed,378 Camps Cir,Sneedville,TN,37869,Hancock County Middle,0,Verified,Jadon,Simpson,3/2/2009,Male,White,a2xf300000AjBwHAAV,a2wf300000HNRJuAAP,Hancock County Schools (TN)
+Holly,Collins,tara.west@hcsk12.com,(423)300-1577,Confirmed,3276 Duck Creek Rd,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Hadley,Collins,11/29/2016,Female,White,a2xf300000AjFutAAF,a2wf300000HNTJgAAP,Hancock County Schools (TN)
+Chris,Cress,lynn.drinnon@hcsk12.com,423-300-9824,Confirmed,163 Guy Seal Rd,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Aubree,Drinnon,9/1/2016,Female,White,a2xf300000AjFXLAA3,a2wf300000HNT7QAAX,Hancock County Schools (TN)
+Judy,Drinnon,lynn.drinnon@hcsk12.com,423-300-2776,Confirmed,625 Drinnon Hollow Rd,Sneedville,TN,37869,Hancock county middle,5606684,,Emma,Drinnon,6/12/2008,Female,White,a2xf300000AjFMNAA3,a2wf300000HNT1mAAH,Hancock County Schools (TN)
+Melinda,Glover,glovermelinda31@gmail.com,4233001482,Confirmed,1911 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock County,0,Verified,Dylan,France,,,,a2xf300000AjFOiAAN,a2wf300000HNT34AAH,Hancock County Schools (TN)
+Julie,Heck,brandon.gibbs@hcsk12.com,423-300-4411,Confirmed,1305 Copper Ridge Rd,Thorn Hill,TN,37881,Hancock Co Schools,0,Verified,Toxey,Heck,2/11/2003,,,a2xf300000AjFfKAAV,a2wf300000HNTBrAAP,Hancock County Schools (TN)
+Miranda,Russell,hancockcountyarts@yahoo.com,4233007509,Confirmed,438 Treadway Cir,Thorn Hill,TN,37881,Hancock middle school,0,New Entry / Not Yet Requested,Myla,Russell,8/25/2006,Female,White,a2xf300000AjEtuAAF,a2wf300000HNSodAAH,Hancock County Schools (TN)
+Alice,Ringley,alice@ringley.nrl,4233000221,Confirmed,4374 Tazewell Hwy,Sneedville,TN,37869,Hancock County HighSchool,4635708,Verified,Jacob,Simpson,11/8/2020,Male,White,a2xf300000AjEMCAA3,a2wf300000HNSXrAAP,Hancock County Schools (TN)
+Lindsey,Tanner,lynn.drinnon@hcsk12.com,423-300-9662,Confirmed,616 Alton Rd,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Rylan,Tanner,1/18/2013,Male,White,a2xf300000AjFbmAAF,a2wf300000HNT9vAAH,Hancock County Schools (TN)
+Chris,Cress,lynn.drinnon@hcsk12.com,423-300-9824,Confirmed,163 Guy Seal Rd,Sneedville,TN,37869,Hancock county elementary,2000516,,Caiden,Drinnon,,Male,White,a2xf300000AjEEwAAN,a2wf300000HNSTfAAP,Hancock County Schools (TN)
+Don,McClure,lynn.drinnon@hcsk12.com,423-300-3158,Confirmed,127 Whitney Cir Apt 113,Sneedville,TN,37869,Hancock county elementary,2001235,New Entry / Not Yet Requested,Connor,McClure,,Male,White,a2xf300000AjEJwAAN,a2wf300000HNSWPAA5,Hancock County Schools (TN)
+Rhonda,Combs,kaitlyn.harrison@hcsk12.com,423-300-0793,Confirmed,2429 Chinquipin Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Deegan,Combs,10/13/2009,,,a2xf300000AjDKjAAN,a2wf300000HNS2uAAH,Hancock County Schools (TN)
+Cindy,Spradline,breanna_96@hotmail.com,423-973-1025,Confirmed,184 Big Creek Rd,Sneedville,TN,37869,Hancock Elementary,4664753,Verified,Rex,Barnett,8/21/2012,,,a2xf300000AjDvLAAV,a2wf300000HNSKdAAP,Hancock County Schools (TN)
+Amy,Dalton,j357magicebox@gmail.com,(423)733-4870,Confirmed,5146 Highway 131,Thorn Hill,TN,37881,Hancock Middle High,4488385,Verified,Kyle,Fulgham,,,,a2xf300000AjDvkAAF,a2wf300000HNSKnAAP,Hancock County Schools (TN)
+Rachel,Linden,rachel.linden@youthvillages.org,(865)771-0251,Confirmed,383 Grandview Dr,Sneedville,TN,37869,Hancock Elementary,4441777,Verified,Sadie,Howell,9/6/2012,,,a2xf300000AjDzhAAF,a2wf300000HNSMpAAP,Hancock County Schools (TN)
+Lindsey,Tanner,lynn.drinnon@hcsk12.com,423-300-9662,Confirmed,616 Alton Rd,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Rylan,Tanner,,Male,White,a2xf300000AjEBKAA3,a2wf300000HNSXmAAP,Hancock County Schools (TN)
+Martha,Goins,lynn.drinnon@hcsk12.com,423-300-4563,Confirmed,167 Hyatt Ln,Sneedville,TN,37869,Hancock county elementary,2000312,New Entry / Not Yet Requested,Branson,Huffman,,Male,White,a2xf300000AjEH2AAN,a2wf300000HNSUsAAP,Hancock County Schools (TN)
+Chasity,Williams,sue.carney@hcsk12.com,423-300-4995,Confirmed,140 Whitney Cir Apt 175,Sneedville,TN,37869,Hancock cty middle/high,5372163,Verified,Phil,Nichols,5/11/2007,Male,White,a2xf300000AjDnqAAF,a2wf300000HNSHAAA5,Hancock County Schools (TN)
+Autumn,Carroll,amy.harrell@hcsk12.com,(423)300-7292,Confirmed,1669 Back Valley Rd,Sneedville,TN,37869,Hancock ELC,0,Verified,Winnie,Seal,4/16/2018,Female,,a2xf300000AjEqgAAF,a2wf300000HNSn6AAH,Hancock County Schools (TN)
+Skyla,Johnson,skylaseal22@gmail.com,4233009166,Confirmed,1357 Singleton Rd,Sneedville,TN,37869,Hancock County,4637451,Verified,Kiana,Johnson,,,,a2xf300000AjE6nAAF,a2wf300000HNSPxAAP,Hancock County Schools (TN)
+Lacey,Williams,amy.harrell@hcsk12.com,3522500459,Confirmed,195 Coffey Church Ln,Thorn Hill,TN,37881,Hancock County Elementary,WOFD9EGTO,Verified,Zach,Fender,10/27/2009,Male,,a2xf300000AjENeAAN,a2wf300000HNSYQAA5,Hancock County Schools (TN)
+Julia,Booker,julia@booker.nrl,(423) 733-2308,Confirmed,822 Main St,Sneedville,TN,37869,Hancock County High Schoo,4275346,Verified,Austin,Booker,12/2/2003,,,a2xf300000AjEQKAA3,a2wf300000HNSaqAAH,Hancock County Schools (TN)
+Jeni,Howerton,lynn.drinnon@hcsk12.com,865-406-6464,Confirmed,820 Spence Rd,Rutledge,TN,37861,Hancock county elementary,2000316,New Entry / Not Yet Requested,Lacy,Howerton,,Female,White,a2xf300000AjEGEAA3,a2wf300000HNSUPAA5,Hancock County Schools (TN)
+Sonya,Greene,haleymgreene9883@gmail.com,423-300-8088,Confirmed,231 Poplar St,Sneedville,TN,37869,Hancock County High Schoo,0,Not Required,Baley,Greene,,Prefer Not to Answer,Not Listed,a2xf300000AjDxbAAF,a2wf300000HNSLlAAP,Hancock County Schools (TN)
+Candy,Lamb,kaitlyn.harrison@hcsk12.com,423-300-9172,Confirmed,1127 Trents Chapel Rd,Sneedville,TN,37869,Hancock Middle/High,4022062,Verified,Kelby,Lamb,10/18/2006,Female,,a2xf300000AjDHLAA3,a2wf300000HNS1CAAX,Hancock County Schools (TN)
+Amber,Atkins,lynn.drinnon@hcsk12.com,423-300-4921,Confirmed,194 Ashley Cir,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Peyton,Atkins,10/5/2010,Male,White,a2xf300000AjE9cAAF,a2wf300000HNSRFAA5,Hancock County Schools (TN)
+Brittney,Bolden,j357magicebox@gmail.com,4233004617,Confirmed,356 Big Creek Rd,Sneedville,TN,37869,Hancock Middle/High,3624023,Verified,Cayden,Bolden,,Male,,a2xf300000AjDuOAAV,a2wf300000HNSKYAA5,Hancock County Schools (TN)
+Judy,Drinnon,lynn.drinnon@hcsk12.com,423-300-2776,Confirmed,625 Drinnon Hollow Rd,Sneedville,TN,37869,Hancock Middle school,5606684,,Emma,Drinnon,,Female,White,a2xf300000AjFL1AAN,a2wf300000HNT1NAAX,Hancock County Schools (TN)
+Amy,Hill,j357magicebox@gmail.com,(423)300-7600,Confirmed,1197 Tom Hill Dr,Sneedville,TN,37869,Hancock Middle High,3405468,Verified,Odin,Hill,,,,a2xf300000AjDw9AAF,a2wf300000HNSL2AAP,Hancock County Schools (TN)
+Christie,Kinsler,lynn.drinnon@hcsk12.com,423-300-1428,Confirmed,153 Garrett Dr,Sneedville,TN,37869,Hancock county elementary,2000119,New Entry / Not Yet Requested,Aiden,Kinsler,,Male,White,a2xf300000AjEIyAAN,a2wf300000HNSVqAAP,Hancock County Schools (TN)
+Kaitlyn,Kinsler,jacklyn.bailey@hcsk12.com,4233001548,Confirmed,242 Dry Branch Rd,Sneedville,TN,37869,Hancock County,0,Not Required,Quentin,Lyons,10/21/2014,,,a2xf300000AjFNBAA3,a2wf300000HNT26AAH,Hancock County Schools (TN)
+Dawson,Drinnon,lynn.drinnon@hcsk12.com,423-300-2776,Confirmed,625 Drinnon Hollow Rd,Sneedville,TN,37869,Hancock county elementary,2000219,New Entry / Not Yet Requested,Dawson,Drinnon,,Male,White,a2xf300000AjFVyAAN,a2wf300000HNT6mAAH,Hancock County Schools (TN)
+April,Hensley,april@hensley.nrl,423-300-5768,Confirmed,249 Brogan Rd,Thorn Hill,TN,37881,3977529,3977529,Verified,Tyler,Hensley,7/12/2006,Male,White,a2xf300000AjFh6AAF,a2wf300000HNTCfAAP,Hancock County Schools (TN)
+Jimmy,Collins,kaitlyn.harrison@hcsk12.com,423-300-0525,Confirmed,1377 War Creek Rd,Thorn Hill,TN,37881,Hancock Middle/High,4167426,Verified,Christian,Peppers,8/9/2007,Male,,a2xf300000AjDITAA3,a2wf300000HNS20AAH,Hancock County Schools (TN)
+Eva,Montgomery,patty.johnson@hcsk12.com,4233005939,Confirmed,115 Hillcrest Ln,Sneedville,TN,37869,HCES,0,New Entry / Not Yet Requested,Jacob,Montgomery,5/24/2014,Male,,a2xf300000AjE48AAF,a2wf300000HNSOkAAP,Hancock County Schools (TN)
+Carol,Brooks,mommybrooks1@gmail.com,423-259-5759,Confirmed,4642 Powell River Rd,Tazewell,TN,37879,Hancock Elementary,4710628,Verified,September,Brooks,5/17/2012,Female,White,a2xf300000AjDrTAAV,a2wf300000HNSISAA5,Hancock County Schools (TN)
+Bernice,Collins,j357magicebox@gmail.com,4233004204,Confirmed,673 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock Middle High,0,Verified,Jeremy,Collins,,,,a2xf300000AjDzIAAV,a2wf300000HNSMeAAP,Hancock County Schools (TN)
+Jessica,Amos,j357magicebox@gmail.com,4233001275,Confirmed,202 Hickory Ln,Sneedville,TN,37869,Hancock Middle/High,3865853,Verified,Savannah,Amos,5/3/2008,Female,,a2xf300000AjDtjAAF,a2wf300000HNSJkAAP,Hancock County Schools (TN)
+Vickie,Jarnigan,brittany.seal@hcsk12.com,(423)300-4209,Confirmed,343 Clinch Ave,Sneedville,TN,37869,Hancock County Middle,3968505,Verified,Jonathon,Reed,5/9/2007,Male,,a2xf300000AjGDCAA3,a2wf300000HNTTCAA5,Hancock County Schools (TN)
+Audrea,Mathis,j357magicebox@gmail.com,(423)300-3791,Confirmed,1741 Chinquipin Rd,Sneedville,TN,37869,Hancock Middle High,4159127,Verified,Marissa,Mathis,,,,a2xf300000AjDwxAAF,a2wf300000HNSLWAA5,Hancock County Schools (TN)
+Heather,Lawson,amy.harrell@hcsk12.com,(423)300-2180,Confirmed,202 Byrd Creek Rd,Sneedville,TN,37869,Hancock County Middle,0,Verified,Zoey,Lawson,5/17/2006,Female,,a2xf300000AjEFBAA3,a2wf300000HNSTkAAP,Hancock County Schools (TN)
+Casey,Johnson,caseysuejohnson42@gmail.com,4239731588,Confirmed,178 Don Nichols Ln,Sneedville,TN,37869,Hancock County Elementary,Y78WIL886,Verified,Jacob,Johnson,11/30/2009,Male,,a2xf300000AjE8kAAF,a2wf300000HNSP1AAP,Hancock County Schools (TN)
+Kendra,Riggs,lynn.drinnon@hcsk12.com,423-300-8385,Confirmed,326 Seal Ave,Sneedville,TN,37869,Hancock county elementary,2000526,New Entry / Not Yet Requested,Brayden,Riggs,,Male,White,a2xf300000AjEKuAAN,a2wf300000HNSVNAA5,Hancock County Schools (TN)
+Amanda,Winstead,j357magicebox@gmail.com,(423)300-0336,Confirmed,211 Wallen St,Sneedville,TN,37869,Hancock Middle High,3405481,Verified,Alexis,Winstead,,,,a2xf300000AjDyAAAV,a2wf300000HNSM5AAP,Hancock County Schools (TN)
+Holli,Barger,holli.barger92@gmail.com,423-300-3630,Confirmed,402 Treadway Cir,Thorn Hill,TN,37881,Hancock Elementary,4523906,Verified,Gabriel,Barger,11/18/2011,Male,White,a2xf300000AjElvAAF,a2wf300000HNSkgAAH,Hancock County Schools (TN)
+Christie,Kinsler,lynn.drinnon@hcsk12.com,422-300-1428,Confirmed,153 Garrett Dr,Sneedville,TN,37869,Hancock county elementary,2000119,New Entry / Not Yet Requested,Aiden,Kinsler,9/22/2011,Male,White,a2xf300000AjFUqAAN,a2wf300000HNT6DAAX,Hancock County Schools (TN)
+Tonia,Smith,lynn.drinnon@hcsk12.com,423-300-1959,Confirmed,168 Whitney Cir Apt 133,Sneedville,TN,37869,Hancock county elementary,2000696,New Entry / Not Yet Requested,Allison,Smith,,Female,White,a2xf300000AjEPfAAN,a2wf300000HNSZTAA5,Hancock County Schools (TN)
+Adrianna,Walker,walkerclan34@gmail.com,4233004608,Confirmed,251 Hillside St,Sneedville,TN,37869,Hancock Elementary,4432022,Verified,Sonny,Walker,8/31/2012,,,a2xf300000AjEHIAA3,a2wf300000HNSVlAAP,Hancock County Schools (TN)
+Christy,Wilder,lynn.drinnon@hcsk12.com,423-500-9019,Confirmed,191 Kyle Valley Rd,Eidson,TN,37731,Hancock county elementary,2001278,New Entry / Not Yet Requested,Alyssa,Wilder,,Female,White,a2xf300000AjEO3AAN,a2wf300000HNSYfAAP,Hancock County Schools (TN)
+Jason,Johnson,patty.johnson@hcsk12.com,4232893424,Confirmed,5304 Kyles Ford Hwy,Kyles Ford,TN,37765,HCES,4690644,New Entry / Not Yet Requested,Kaylee,Johnson,5/23/2012,Female,White,a2xf300000AjE9YAAV,a2wf300000HNSRPAA5,Hancock County Schools (TN)
+Amanda,Collins,lynn.drinnon@hcsk12.com,423-300-9743,Confirmed,1918 Cool Branch Rd,Sneedville,TN,37869,Hancock county elementary,2000298,New Entry / Not Yet Requested,Amelia,Trent,,Female,White,a2xf300000AjEMRAA3,a2wf300000HNSXwAAP,Hancock County Schools (TN)
+Tracy,Burge,tracy_burge@yahoo.com,7314385745,Confirmed,1349 Box Elder Dr,Adamsville,TN,38310,West Hardin School,0,,Isabella,Hendrix,7/23/2011,Female,White,a2xf300000AjDWpAAN,a2wf300000HNS8cAAH,Hancock County Schools (TN)
+Tessa,Brown,lynn.drinnon@hcsk12.com,423-733-1534,Confirmed,1345 Cool Branch Rd,Sneedville,TN,37869,Hancock county elementary,2000425,New Entry / Not Yet Requested,Zephyr,Brown,,Male,White,a2xf300000AjECgAAN,a2wf300000HNSSwAAP,Hancock County Schools (TN)
+Christa,Lamb,jane@doe.nrl,(423) 733-1599,Confirmed,616 Ridgeview Ln,Sneedville,TN,37869,Hancock County High,MZWLECUQL,Verified,Lacey,Lamb,7/5/2005,,,a2xf300000AjFzAAAV,a2wf300000HNTLwAAP,Hancock County Schools (TN)
+Carrie,Dodson,carrie.dodson@hcsk12.com,4233009767,Confirmed,161 Long Hollow Rd,Sneedville,TN,37869,Hancock Elementary,0,,Caden,Dodson,5/20/2014,Male,White,a2xf300000AjF8VAAV,a2wf300000HNSv5AAH,Hancock County Schools (TN)
+Carol,Price,carol@price.nrl,423-973-1466,Confirmed,214 Wahoo Rd,Sneedville,TN,37869,Hancock County High Schoo,2000926,Verified,Alexis,Price,1/18/2005,,,a2xf300000AjERgAAN,a2wf300000HNSabAAH,Hancock County Schools (TN)
+Jessica,Wolfe,patty.johnson@hcsk12.com,4233004586,Confirmed,1297 Hatfield Rd,Tazewell,TN,37879,HCES,0,New Entry / Not Yet Requested,Colton,Vannatter,1/5/2016,Female,White,a2xf300000AjE57AAF,a2wf300000HNSPsAAP,Hancock County Schools (TN)
+Kendra,Riggs,lynn.drinnon@hcsk12.com,423-300-8385,Confirmed,326 Seal Ave,Sneedville,TN,37869,Hancock county elementary,2000526,New Entry / Not Yet Requested,Brayden,Riggs,1/5/2012,Male,White,a2xf300000AjFcVAAV,a2wf300000HNTAAAA5,Hancock County Schools (TN)
+Lisa,Burchett,amy.harrell@hcsk12.com,4233007292,Confirmed,397 Jarvis St,Sneedville,TN,37869,Hancock County High,0,Verified,Zowie,Carroll,8/14/2004,Female,,a2xf300000AjEqCAAV,a2wf300000HNSmmAAH,Hancock County Schools (TN)
+Jeni,Howerton,lynn.drinnon@hcsk12.com,865-406-6464,Confirmed,820 Spence Rd,Rutledge,TN,37861,Hancock county elementary,0,,Zeke,Howerton,,Male,White,a2xf300000AjFJsAAN,a2wf300000HNT0jAAH,Hancock County Schools (TN)
+Amber,Seal,becky.mccoy@hcsk12.com,4233004867,Confirmed,140 Whitney Cir Apt 177,Sneedville,TN,37869,Hancock county elementary,2001029,Verified,Payton,Seal,2/12/2014,,,a2xf300000AjG4yAAF,a2wf300000HNTPAAA5,Hancock County Schools (TN)
+Alice,Johnson,lynn.drinnon@hcsk12.com,423-733-4111,Confirmed,PO Box 655,Sneedville,TN,37869,Hancock county elementary,2000612,New Entry / Not Yet Requested,Lacy,Livesay,3/3/2012,Female,White,a2xf300000AjFdsAAF,a2wf300000HNTB3AAP,Hancock County Schools (TN)
+April,Parkey,jadedladey@gmail.com,423-724-8273,Confirmed,2358 Mulberry Gap Rd,Sneedville,TN,37869,Hancock Elementary,4795124,Verified,Lyra,Parkey,3/12/2012,Female,,a2xf300000AjDt0AAF,a2wf300000HNSJLAA5,Hancock County Schools (TN)
+Jeremiah,Harris,brittany.seal@hcsk12.com,(423)300-9511,Confirmed,306 Sterling Dr,Sneedville,TN,37869,Hancock County Middle,4024948,Verified,Leslie,Harris,12/27/2006,Female,,a2xf300000AjGCOAA3,a2wf300000HNTSnAAP,Hancock County Schools (TN)
+Kasey,Brewer,lynn.drinnon@hcsk12.com,423-300-9144,Confirmed,138 Chelony Jon Ln,Sneedville,TN,37869,Hancock county elementary,2000510,New Entry / Not Yet Requested,Reagan,Brewer,,Male,White,a2xf300000AjE9sAAF,a2wf300000HNSRZAA5,Hancock County Schools (TN)
+Reeda,Johnson,reedakjohnson4@gmail.com,4233002111,Confirmed,270 Slate Hill Dr,Sneedville,TN,37869,Hancock County,4759870,Verified,Chandler,Johnson,9/11/2013,,,a2xf300000AjDmsAAF,a2wf300000HNSGWAA5,Hancock County Schools (TN)
+Reagan,Brewer,lynn.drinnon@hcsk12.com,423-300-9144,Confirmed,138 Chelony Jon Ln,Sneedville,TN,37869,Hancock county elementary,2000510,,Reagan,Brewer,4/12/2012,Male,White,a2xf300000AjFXuAAN,a2wf300000HNT7uAAH,Hancock County Schools (TN)
+Tessa,Brown,lynn.drinnon@hcsk12.com,423-733-1534,Confirmed,1345 Cool Branch Rd,Sneedville,TN,37869,Hancock county elementary,2000425,New Entry / Not Yet Requested,Zephyr,Brown,8/4/2011,Male,White,a2xf300000AjFYOAA3,a2wf300000HNT89AAH,Hancock County Schools (TN)
+Jill,Belcher,tara.west@hcsk12.com,4233001164,Confirmed,516 Livesay Chapel Rd,Kyles Ford,TN,37765,Hancock County Elementary,0,New Entry / Not Yet Requested,Paisley,Belcher,2/5/2013,Female,White,a2xf300000AjFu5AAF,a2wf300000HNTJCAA5,Hancock County Schools (TN)
+Judy,Drinnon,lynn.drinnon@hcsk12.com,423-300-2776,Confirmed,625 Drinnon Hollow Rd,Sneedville,TN,37869,Hancock county elementary,2000219,New Entry / Not Yet Requested,Dawson,Drinnon,2/16/2010,Male,White,a2xf300000AjFX1AAN,a2wf300000HNT7GAAX,Hancock County Schools (TN)
+Kasey,Brewer,lynn.drinnon@hcsk12.com,423-300-9144,Confirmed,138 Chelony Jon Ln,Sneedville,TN,37869,Hancock county elementary,0,New Entry / Not Yet Requested,Lanna,Brewer,,Female,White,a2xf300000AjE9vAAF,a2wf300000HNSShAAP,Hancock County Schools (TN)
+Melanie,Ailey,melanie@ailey.nrl,423-300-8460,Confirmed,536 Ferguson Cemetery Rd,Sneedville,TN,37869,Hancock County High Schoo,4358202,Verified,Tatum,Ailey,1/12/2005,,,a2xf300000AjFNkAAN,a2wf300000HNT2QAAX,Hancock County Schools (TN)
+Martha,Goins,lynn.drinnon@hcsk12.com,423-300-4563,Confirmed,167 Hyatt Ln,Sneedville,TN,37869,Hancock county elementary,2000312,New Entry / Not Yet Requested,Branson,Huffman,5/10/2012,Male,White,a2xf300000AjFf5AAF,a2wf300000HNTBhAAP,Hancock County Schools (TN)
+Kathy,Wade,lookalou@outlook.com,4233004042,Confirmed,3284 Highway 131,Thorn Hill,TN,37881,Hancock Elementary,4710633,Verified,Kasyn,Trent,3/24/2012,,,a2xf3000003bfgvAAA,a2wf300000CfwOGAAZ,Hancock County Schools (TN)
+Felicia,Green,greenfelicia5477@gmail.com,4233000554,Confirmed,299 Perry Livesay Rd,Kyles Ford,TN,37765,Hancock Elementary,4902243,,Gage,Green,5/1/2014,Male,White,a2xf3000003bgE8AAI,a2wf300000CfweOAAR,Hancock County Schools (TN)
+Wayne,Parson,wayneparson2.0@gmail.com,423-500-8768,Confirmed,945 Highway 70,Kyles Ford,TN,37765,Hancock Elementary,0,New Entry / Not Yet Requested,Alayna,Parson,5/26/2012,Female,,a2xf3000003becwAAA,a2wf300000CfvmHAAR,Hancock County Schools (TN)
+Christie,Kinsler,josh.fleenor@hcsk12.com,(423)300-1428,Confirmed,153 Garrett Dr,Sneedville,TN,37869,Hancock Elementary,0,Verified,Aiden,Kinsler,,,,a2xf3000003bg9eAAA,a2wf300000CfwcIAAR,Hancock County Schools (TN)
+Jason,Mathis,amy.harrell@hcsk12.com,4233008350,Confirmed,1699 Back Valley Rd,Sneedville,TN,37869,Hancock County Elementary,3D3AKP4RK,Verified,Ian,Waddell,4/29/2010,Male,,a2xf3000003bgAbAAI,a2wf300000CfwccAAB,Hancock County Schools (TN)
+Tonia,Smith,wendy.mullins@hcsk12.com,4233001959,Confirmed,168 Whitney Cir Apt 133,Sneedville,TN,37869,Hancock Elementary,0,,Allison,Smith,1/30/2012,Female,White,a2xf3000003bgQ9AAI,a2wf300000CfwlFAAR,Hancock County Schools (TN)
+William,Johnson,misty.rasnic@hcsk12.com,423-300-4252,Confirmed,196 Keaton Ln,Sneedville,TN,37869,Hancock County Elementary,5703855,Verified,Matthew,Johnson,9/29/2008,Male,White,a2xf3000003bgIPAAY,a2wf300000CfwgtAAB,Hancock County Schools (TN)
+Ann,Taylor,misty.rasnic@hcsk12.com,4233008165,Confirmed,3162 Rebel Hollow Rd,Tazewell,TN,37879,Hancock County Elementary,2000778,Verified,Hayden,Canavan,7/10/2012,Male,White,a2xf3000003bg60AAA,a2wf300000CfwcmAAB,Hancock County Schools (TN)
+Missy,Ramsey,brittany.seal@hcsk12.com,(423)300-0215,Confirmed,1577 Alton Rd,Sneedville,TN,37869,Hancock County High,3534145,Verified,Skylar,Ramsey,1/17/2003,Female,,a2xf3000003bg6aAAA,a2wf300000CfweEAAR,Hancock County Schools (TN)
+Sherry,Trent,brittany.seal@hcsk12.com,(423)300-0318,Confirmed,176 W Greenway St,Sneedville,TN,37869,Hancock County Middle,0,Verified,Shelby,Trent,4/9/2008,Female,,a2xf3000003bg2KAAQ,a2wf300000CfwgjAAB,Hancock County Schools (TN)
+NaKisha,Seals,wendy.mullins@hcsk12.com,4237248016,Confirmed,6667 War Creek Rd,Thorn Hill,TN,37881,Hancock Elementary,4946870,,Knox,Seals,7/25/2014,Male,White,a2xf3000003bgTXAAY,a2wf300000CfwmXAAR,Hancock County Schools (TN)
+Renee,Barger,amy.harrell@hcsk12.com,(423)300-0066,Confirmed,4530 Tazewell Hwy,Sneedville,TN,37869,Hancock County Elementary,K219LGJVX,Verified,Hailey,Barger,9/5/2009,Female,,a2xf3000003bgLZAAY,a2wf300000CfwigAAB,Hancock County Schools (TN)
+Gillis,Harvey,gillis@harvey.nrl,423-300-7363,Confirmed,588 Dogwood Hts,Sneedville,TN,37869,Hancock Elementary,3957201,Verified,Braxton,Mathis,12/16/2008,Male,,a2xf3000003bf6XAAQ,a2wf300000Cfw1qAAB,Hancock County Schools (TN)
+Christine,Bunch,josh.fleenor@hcsk12.com,4233008790,Confirmed,304 Fox Branch Rd,Kyles Ford,TN,37765,Hancock Middle,0,Verified,John,Bunch,4/21/2007,,,a2xf3000003bg7WAAQ,a2wf300000CfwWGAAZ,Hancock County Schools (TN)
+Christie,Kinsler,keesha_belcher@yahoo.com,4233001428,Confirmed,153 Garrett Dr,Sneedville,TN,37869,Hancock Elementary,4321046,,Aiden,Kinsler,9/22/2011,Male,White,a2xf3000003bePsAAI,a2wf300000CfvgAAAR,Hancock County Schools (TN)
+Tonya,Seal,jane@doe.nrl,4233001058,Confirmed,160 Stapleton Ln,Sneedville,TN,37869,Hancock County Elementary,84Z5WCIKS,New Entry / Not Yet Requested,Colton,Seal,1/10/2014,Male,White,a2xf3000003bf5AAAQ,a2wf300000Cfw1CAAR,Hancock County Schools (TN)
+Summer,Mabe,tara.west@hcsk12.com,(423)300-8516,Confirmed,278 Ridgeview Ln,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Truett,Mabe,6/30/2010,Male,White,a2xf300000AjFzyAAF,a2wf300000HNTMQAA5,Hancock County Schools (TN)
+Amy,Hill,jennifer.seal@hcsk12.com,4237332534,Confirmed,1197 Tom Hill Dr,Sneedville,TN,37869,Hancock County Elementary,3992574,Verified,Koda,Hill,1/25/2009,Male,White,a2xf300000AjG6fAAF,a2wf300000HNTPyAAP,Hancock County Schools (TN)
+Michael,Mullins,becky.mccoy@hcsk12.com,4237332364,Confirmed,1769 Kyles Ford Hwy,Sneedville,TN,37869,Hancock county elementary,2000775,Not Required,Ivory,Mullins,9/20/2013,,,a2xf300000AjG1QAAV,a2wf300000HNTN9AAP,Hancock County Schools (TN)
+Marsha,Collins,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,314 Burchett Hbr,Sneedville,TN,37869,Hancock County Elementary,4320311,Verified,Kaine,Burchett,4/22/2009,Male,White,a2xf300000AjG62AAF,a2wf300000HNTQhAAP,Hancock County Schools (TN)
+Tammie,Reid,treid900@gmail.com,423-300-4194,Confirmed,2104 War Creek Rd,Thorn Hill,TN,37881,Hancock Elementary,4315313,Verified,Clarissa,Reid,4/20/2009,Female,,a2xf3000003bewDAAQ,a2wf300000CfvwRAAR,Hancock County Schools (TN)
+Angela,Cress,angela@cress.nrl,4233004644,Confirmed,163 Guy Seal Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Caiden,Cress,6/5/2012,,,a2xf300000AjG29AAF,a2wf300000HNTNiAAP,Hancock County Schools (TN)
+Amy,Nease,tara.west@hcsk12.com,(423)300-9101,Confirmed,241 Jarvis St,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Johanna,Nease,12/28/2012,Female,White,a2xf300000AjG3qAAF,a2wf300000HNTObAAP,Hancock County Schools (TN)
+Onofre,Santana,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,2817 Pawpaw Rd,Thorn Hill,TN,37881,Hancock County Middle,4022099,Verified,Lily,Santana-Hernandez,10/30/2006,Female,Hispanic or Latino/a,a2xf300000AjGA8AAN,a2wf300000HNTRuAAP,Hancock County Schools (TN)
+Holly,Rodes,memoryrodesphotography@yahoo.com,423-839-3296,Confirmed,144 Reed Ln,Sneedville,TN,37869,Hancock Elementary,4958105,Verified,Ayden,Rodes,5/5/2008,Male,,a2xf3000003bf3xAAA,a2wf300000Cfw0dAAB,Hancock County Schools (TN)
+Chelsey,Owens,chelsowens1314@icloud.com,423-300-3407,Confirmed,260 Jones Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Jolynn,Owens,4/7/2014,Female,,a2xf3000003beuRAAQ,a2wf300000CfvvJAAR,Hancock County Schools (TN)
+Ginger,Ferguson,gingeragibson@yahoo.com,423-973-1681,Confirmed,9830 Tazewell Hwy,Sneedville,TN,37869,Hancock Middle/High,0,New Entry / Not Yet Requested,Kaylee,Gibson,12/13/2004,Female,,a2xf3000003beesAAA,a2wf300000CfvnPAAR,Hancock County Schools (TN)
+Ashley,Worley,jane@doe.nrl,423-300-8452,Confirmed,4510 Caney Valley Rd,Sneedville,TN,37869,Hancock County Elemtary,BQV97EB7Q,,Mason,Worley,2/19/2014,Male,White,a2xf3000003bfGmAAI,a2wf300000Cfw7KAAR,Hancock County Schools (TN)
+Shannon,Johns,shannon_mullins@yahoo.com,423-300-2707,Confirmed,109 Jarvis St,Sneedville,TN,37869,Hancock Elementary,0,Verified,Titus,Mullins,1/3/2017,Male,,a2xf3000003beoxAAA,a2wf300000CfvsUAAR,Hancock County Schools (TN)
+Renetta,Lawson,renetta@lawson.nrl,423-300-2580,Confirmed,3954 Clinch Valley Rd,Thorn Hill,TN,37881,Hancock Elementary,4350153,Verified,Payton,Lawson,9/9/2008,Female,,a2xf3000003bepWAAQ,a2wf300000CfvsyAAB,Hancock County Schools (TN)
+Matthew,Waddell,brittany.seal@hcsk12.com,(423)300-7211,Confirmed,158 Charles St,Sneedville,TN,37869,Hancock County Middle,4016840,Verified,Jackson,Waddell,12/19/2006,Male,,a2xf3000003beO1AAI,a2wf300000Cfvf7AAB,Hancock County Schools (TN)
+Jennifer,Williams,jenniferwilliams2308@gmail.com,423-300-7294,Confirmed,667 Newmans Ridge Rd,Sneedville,TN,37869,Hancock Elementary,2000744,Verified,Coby,Williams,7/1/2010,Male,White,a2xf3000003bff3AAA,a2wf300000CfwKOAAZ,Hancock County Schools (TN)
+Christine,Denim,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,2750 Stoney Fork Rd,Sneedville,TN,37869,Hancock County Elementary,4350143,Verified,Alexis,Carter,7/13/2009,Female,White,a2xf300000AjGASAA3,a2wf300000HNTS4AAP,Hancock County Schools (TN)
+Rhonda,Johnson,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,211 Jones Rd,Sneedville,TN,37869,Hancock County Elementary,4305213,Verified,Harrison,Holt,10/17/2008,Male,White,a2xf300000AjG7iAAF,a2wf300000HNTQcAAP,Hancock County Schools (TN)
+Michael,Grimes,mgrimetime@hotmail.com,260-418-8087,Confirmed,523 River Rd,Sneedville,TN,37869,Hancock Middle/High,0,,Derek,Grimes,10/10/2006,Male,,a2xf3000003behSAAQ,a2wf300000CfvocAAB,Hancock County Schools (TN)
+Connie,Crittenden,becky.mccoy@hcsk12.com,(423)300-7672,Confirmed,1749 Trent Valley Rd,Sneedville,TN,37869,Hancock county elementary,2001198,Verified,Taylor,Crittenden,12/26/2014,,,a2xf300000AjG5NAAV,a2wf300000HNTPUAA5,Hancock County Schools (TN)
+Brandy,Hopkins,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,1417 Sinks Rd,Sneedville,TN,37869,Hancock County Elementary,0,Verified,Luke,Keaton,6/18/2013,Male,White,a2xf300000AjG9KAAV,a2wf300000HNTRVAA5,Hancock County Schools (TN)
+Sarah,Bolden,brittany.seal@hcsk12.com,4232125992,Confirmed,6898 Caney Valley Rd,Tazewell,TN,37879,Hancock County Elementary,0,Verified,Truitt,Bolden,4/3/2014,Male,,a2xf300000AjG9LAAV,a2wf300000HNTRpAAP,Hancock County Schools (TN)
+Jennifer,Johnson,emtp186@yahoo.com,865-621-5059,Confirmed,1673 Panther Creek Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Knightly,Johnson,10/13/2013,Female,,a2xf3000003bfCuAAI,a2wf300000Cfw4zAAB,Hancock County Schools (TN)
+Karrie,Livesay,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,135 Wanola St,Sneedville,TN,37869,Hancock County Elementary,4202957,Verified,Terrence,Livesay,10/11/2008,Male,White,a2xf300000AjG9eAAF,a2wf300000HNTRfAAP,Hancock County Schools (TN)
+Alyce,Metcalf,brittany.seal@hcsk12.com,(423)300-1430,Confirmed,167 Red Bud Ln,Sneedville,TN,37869,Homeschooled,0,Not Required,Dennis,Griffith,3/1/2006,Male,,a2xf300000AjGBVAA3,a2wf300000HNTSYAA5,Hancock County Schools (TN)
+Angela,Cress,angela@cress.nrl,4233004644,Confirmed,163 Guy Seal Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Caiden,Cress,6/5/2012,Male,White,a2xf300000AjG1fAAF,a2wf300000HNTNJAA5,Hancock County Schools (TN)
+Matthew,Greene,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,480 Chelony Jon Ln,Sneedville,TN,37869,Hancock County Elementary,4199295,Verified,Baileigh,Greene,4/4/2009,Female,White,a2xf300000AjG8RAAV,a2wf300000HNTR6AAP,Hancock County Schools (TN)
+Amanda,Lyons,tara.west@hcsk12.com,(423)863-4364,Confirmed,1739A Line Rd,Eidson,TN,37731,Hancock County Elementary,0,New Entry / Not Yet Requested,Branson,Lyons,5/20/2013,Male,White,a2xf300000AjFz5AAF,a2wf300000HNTLrAAP,Hancock County Schools (TN)
+Diana,Gibson,brittany.seal@hcsk12.com,4233007766,Confirmed,6065 Mulberry Gap Rd,Sneedville,TN,37869,Hancock County Middle,4280836,Verified,Shiane,Gibson,9/6/2006,Female,White,a2xf300000AjG5wAAF,a2wf300000HNTPoAAP,Hancock County Schools (TN)
+Wanda,Lee,wandabainlee@gmail.com,423-500-8006,Confirmed,8380 Tazewell Hwy,Sneedville,TN,37869,Hancock Middle/High,0,Verified,Zachary,Lee,7/8/2007,Male,,a2xf3000003beqtAAA,a2wf300000CfvtcAAB,Hancock County Schools (TN)
+Lakota,Collins,becky.mccoy@hcsk12.com,4233005524,Confirmed,1911 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock county elementary,2001208,Verified,Kajun,Collins,2/17/2014,,,a2xf300000AjG1kAAF,a2wf300000HNTNOAA5,Hancock County Schools (TN)
+Sarah,Hopkins,jennifer.seal@hcsk12.com,(423)733-2534,Confirmed,200 Prospect Rd,Sneedville,TN,37869,Hancock County Elementary,4199302,Verified,Bryson,Hopkins,1/23/2009,Male,White,a2xf300000AjG90AAF,a2wf300000HNTRGAA5,Hancock County Schools (TN)
+Sarah,Bolden,becky.mccoy@hcsk12.com,(423)300-1823,Confirmed,6898 Caney Valley Rd,Tazewell,TN,37879,Hancock county elementary,2001018,New Entry / Not Yet Requested,Truitt,Bolden,4/3/2014,,,a2xf300000AjG6qAAF,a2wf300000HNTQ8AAP,Hancock County Schools (TN)
+Teresa,Gibson,motherteresa592@gmail.com,423-300-0173,Confirmed,956 Sherm Mountain Rd,Sneedville,TN,37869,Hancock Elementary,4183787,New Entry / Not Yet Requested,Maddison,Gibson,7/20/2009,Female,,a2xf3000003begAAAQ,a2wf300000Cfvo3AAB,Hancock County Schools (TN)
+Brenda,Livesay,keesha_belcher@yahoo.com,865) 278-6960,Confirmed,4226 Tazewell Hwy,Sneedville,TN,37869,Hancock Middle,3957860,New Entry / Not Yet Requested,Bryce,Kinsler,3/26/2007,Male,White,a2xf3000003beP4AAI,a2wf300000CfvfgAAB,Hancock County Schools (TN)
+Patty,Gibson,jennifer.seal@hcsk12.com,(423)733-8508,Confirmed,165 Elrod Falls Rd,Thorn Hill,TN,37881,Hancock County Elementary,4176048,Verified,Starlyn,Gibson,10/16/2008,Female,White,a2xf300000AjG74AAF,a2wf300000HNTQDAA5,Hancock County Schools (TN)
+Holly,Short,brittany.seal@hcsk12.com,4235269712,Confirmed,2213 Mulberry Gap Rd,Sneedville,TN,37869,Hancock County Middle,4022190,Verified,Maddie Jo,Short,2/17/2007,Female,,a2xf3000003bg0uAAA,a2wf300000CfwWUAAZ,Hancock County Schools (TN)
+Beth,Denim,kristendenim3@gmail.com,4233001952,Confirmed,1223 Back Valley Rd,Sneedville,TN,37869,Hancock Elementary,4784704,New Entry / Not Yet Requested,Kasi,Denim,1/28/2014,Female,White,a2xf3000003bg0wAAA,a2wf300000CfwYlAAJ,Hancock County Schools (TN)
+Jessica,Harris,jessann27@gmail.com,423-300-8755,Confirmed,433 Hillside St,Sneedville,TN,37869,Hancock Elementary,5416412,Verified,Andrew,Harris,8/15/2009,Male,White,a2xf3000003bfUyAAI,a2wf300000CfwEzAAJ,Hancock County Schools (TN)
+Carolyn,Collins,jane@doe.nrl,423-300-2075,Confirmed,427 Fox Branch Rd,Kyles Ford,TN,37765,Hancock County Elementary,4850621,New Entry / Not Yet Requested,Bradon,Collins,9/5/2013,Male,White,a2xf3000003beugAAA,a2wf300000CfvvTAAR,Hancock County Schools (TN)
+Wendy,Mullins,wendy.mullins@hcsk12.com,423-300-0076,Confirmed,4712 Highway 131,Thorn Hill,TN,37881,Hancock County Elementary,0,,Sofie,Mullins,3/29/2014,Female,White,a2xf3000003bf8dAAA,a2wf300000Cfw33AAB,Hancock County Schools (TN)
+Rodney,Mullins,jane@doe.nrl,4233004520,Confirmed,454 Sherm Mountain Rd,Sneedville,TN,37869,Hancock County Elementary,2001187,,Kaylee,Collins,7/8/2014,Female,White,a2xf3000003bezMAAQ,a2wf300000CfvvtAAB,Hancock County Schools (TN)
+Julie,Neal,jane@doe.nrl,4233001108,Confirmed,3047 Main St Lot 11,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Julieanne,Hatfield,6/3/2014,Female,White,a2xf3000003bfBSAAY,a2wf300000Cfw4LAAR,Hancock County Schools (TN)
+April,Seals,april@seals.nrl,423-300-8974,Confirmed,169 Highland Dr,Sneedville,TN,37869,Hancock Elementary,4350092,Verified,Madaline,Seals,8/5/2009,Female,,a2xf3000003bfCqAAI,a2wf300000Cfw5nAAB,Hancock County Schools (TN)
+Mary,Holt,wendy.mullins@hcsk12.com,4233004304,Confirmed,837 Winstead Rd,Thorn Hill,TN,37881,Hancock Elementary,4958106,,Cheyenne,Holt,8/14/2013,Female,White,a2xf3000003bgIjAAI,a2wf300000CfwhDAAR,Hancock County Schools (TN)
+Debra,Holt,misty.rasnic@hcsk12.com,423-733-9958,Confirmed,804 Parkey Holw,Sneedville,TN,37869,Hancock County Elementary,2000586,Verified,Taylor,Holt,9/29/2008,Male,White,a2xf3000003bgGOAAY,a2wf300000CfwfqAAB,Hancock County Schools (TN)
+Kelly,Sexton,misty.laprade@hcsk12.com,423-973-4188,Confirmed,511 Southern Hollow Rd,Sneedville,TN,37869,Hancock High,0,Verified,Blake,Trent,2/22/2002,Male,White,a2xf3000003biJzAAI,a2wf300000CfxvzAAB,Hancock County Schools (TN)
+Starlyn,Tankersley,starlyn.tankersley@yahoo.com,423-863-0065,Confirmed,11458 Kyles Ford Hwy,Kyles Ford,TN,37765,Hancock county Middle,0,Verified,Gideon,Tankersley,10/19/2014,Male,White,a2xf3000003bhpBAAQ,a2wf300000CfxeeAAB,Hancock County Schools (TN)
+Marika,Collins,misty.rasnic@hcsk12.com,423-300-8165,Confirmed,211 Hopkins St,Sneedville,TN,37869,Hancock County Elementary,5635375,Verified,Nevaeh,Collins,8/14/2009,Female,White,a2xf3000003bhQUAAY,a2wf300000CfxLhAAJ,Hancock County Schools (TN)
+Janelle,Kenner,brittany.seal@hcsk12.com,4238399073,Confirmed,211 Sam Anderson Rd,Sneedville,TN,37869,Hancock County Middle,4173777,Verified,Alyssa,Ferguson,8/14/2007,Female,,a2xf3000003bgvgAAA,a2wf300000Cfx2zAAB,Hancock County Schools (TN)
+Lindsey,Stewart,misty.rasnic@hcsk12.com,423-523-2266,Confirmed,162 Burdine Dr,Sneedville,TN,37869,Hancock Middle/High,4833725,Verified,Paxton,Stewart,7/12/2006,Male,White,a2xf3000003bhbhAAA,a2wf300000CfxSxAAJ,Hancock County Schools (TN)
+Michael,Winstead,amy.harrell@hcsk12.com,4234650962,Confirmed,134 Thorn Hill School Rd,Thorn Hill,TN,37881,Hancock County Elementary,6G97TLGQU,Verified,Anessa,Winstead,1/12/2010,Female,,a2xf3000003bhobAAA,a2wf300000CfxaDAAR,Hancock County Schools (TN)
+Amanda,Robertson,sherry.hunt@hcsk12.com,4233000134,Confirmed,2402 Back Valley Rd,Sneedville,TN,37869,Hancock County High Schoo,0,Verified,Savannah,Collins,,Female,White,a2xf3000003blD0AAI,a2wf300000CfzcpAAB,Hancock County Schools (TN)
+Onofre,Santana,gstapleton444@gmail.com,423-307-7017,Confirmed,2817 Pawpaw Rd,Thorn Hill,TN,37881,hancock county elementart,4435194,,dylan,hernandez,10/14/2011,Male,Hispanic or Latino/a,a2xf3000003bkweAAA,a2wf300000CfzZvAAJ,Hancock County Schools (TN)
+Janie,Harrison-Dalton,janie.dalton@hcsk12.com,4233009483,Confirmed,640 Chinquipin Rd,Sneedville,TN,37869,Hancock County Middle/Hig,0,New Entry / Not Yet Requested,Madeline,Dalton,7/9/2006,Female,White,a2xf3000003bklHAAQ,a2wf300000Cfzz0AAB,Hancock County Schools (TN)
+Billy,Hopkins,jane@doe.nrl,4233005639,Confirmed,4004 Panther Creek Rd,Sneedville,TN,37869,Hancock County Elementary,NX1SXNMAV,Verified,Greyson,Hopkins,1/6/2014,Male,White,a2xf3000003bmAWAAY,a2wf300000Cg0AXAAZ,Hancock County Schools (TN)
+Elizabeth,Collins,glenda.nichols@hcsk12.com,423 300 7217,Confirmed,1762 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock High School,4561013,Verified,Timmy,Bell,2/4/2004,Male,White,a2xf3000003bm65AAA,a2wf300000Cg07TAAR,Hancock County Schools (TN)
+Heather,Sizemore,leannsize7@gmail.com,4233002414,Confirmed,192 Jamie Ln,Sneedville,TN,37869,Hancock County Elementary,4491080,New Entry / Not Yet Requested,Broten,Sizemore,7/31/2009,Male,White,a2xf3000003bkVaAAI,a2wf300000Cg083AAB,Hancock County Schools (TN)
+Amber,Johnson,becky.mccoy@hcsk12.com,4233007620,Confirmed,431 Leonard Rd,Sneedville,TN,37869,Hancock county elementary,2001196,Verified,Lexi,Johnson,8/7/2013,,,a2xf3000003blPWAAY,a2wf300000CfzitAAB,Hancock County Schools (TN)
+Hanna,Bulanok,becky.mccoy@hcsk12.com,(423)973-1503,Confirmed,820 Barnard Hollow Rd,Sneedville,TN,37869,Hancock county elementary,2001197,Verified,Valleria,Bulanok,9/8/2013,,,a2xf3000003blMqAAI,a2wf300000CfziOAAR,Hancock County Schools (TN)
+Tricia,Glover,sherry.hunt@hcsk12.com,4237332084,Confirmed,1783 Johnsons Ridge Rd,Sneedville,TN,37869,Hancock County Elementary,4077070,Verified,Zoe,Pyne,,Female,White,a2xf3000003bl8AAAQ,a2wf300000CfzaAAAR,Hancock County Schools (TN)
+Krystale,Jones,krystale.jones@hcsk12.com,(423) 300-9559,Confirmed,894 Cope Rd,Sneedville,TN,37869,Hancock County High,OL9K8K99J,Verified,Trenton,Jones,11/10/2004,,,a2xf3000003blxrAAA,a2wf300000Cg03CAAR,Hancock County Schools (TN)
+Sandra,Trent,sherry.hunt@hcsk12.com,4233008483,Confirmed,969 Rhea Hollow Rd,Sneedville,TN,37869,Hancock County Elementary,4202970,Verified,Lucas,Trent,,Male,White,a2xf3000003bl4mAAA,a2wf300000CfzYTAAZ,Hancock County Schools (TN)
+Amber,Seal,becky.mccoy@hcsk12.com,4233004867,Confirmed,140 Whitney Cir Apt 177,Sneedville,TN,37869,Hancock county elementary,2001029,Verified,Payton,Seal,2/12/2014,,,a2xf3000003blRCAAY,a2wf300000CfzkjAAB,Hancock County Schools (TN)
+Fran,Haase,sweetsis1970@yahoo.com,(423)733-2697,Confirmed,1235 Prospect Rd,Sneedville,TN,37869,Hancock County Elementary,4445614,New Entry / Not Yet Requested,Mackenzy,Haase,11/26/2010,Female,White,a2xf3000003bmV0AAI,a2wf300000Cg0LgAAJ,Hancock County Schools (TN)
+Pearlie,Livesay,sherry.hunt@hcsk12.com,4233001988,Confirmed,2834 Tazewell Hwy,Sneedville,TN,37869,Hancock County Elementary,5376883,Verified,Jacob,Livesay,,Male,White,a2xf3000003bnuvAAA,a2wf300000Cg19BAAR,Hancock County Schools (TN)
+Lisa,Johnson,lisamarielawson80@gmail.com,(423)327-4763,Confirmed,196 Keaton Ln,Sneedville,TN,37869,Hancock High School,0,New Entry / Not Yet Requested,Sarah,Johnson,4/23/2010,Female,White,a2xf3000003bp4vAAA,a2wf300000Cg1jsAAB,Hancock County Schools (TN)
+Audrey,Murrell,audrey@murrell.nrl,(423) 733-8133,Confirmed,1799 Copper Ridge Rd,Thorn Hill,TN,37881,Hancock County High Schoo,4357070,Verified,Clayton,Johnson,11/16/2004,,,a2xf3000003bp55AAA,a2wf300000Cg1jxAAB,Hancock County Schools (TN)
+Carolyn,Baker,carolyndaisybaker@gmail.com,4233001282,Confirmed,1314 Panther Creek Rd,Sneedville,TN,37869,Hancock County Elementary,4092173,New Entry / Not Yet Requested,Raelee,Parrish,7/28/2011,Female,White,a2xf3000003bozCAAQ,a2wf300000Cg1gFAAR,Hancock County Schools (TN)
+Summer,Collins,summer.collins@hcsk12.com,423-300-9442,Confirmed,744 Don Greene Rd,Sneedville,TN,37869,Hancock County High Schoo,0,New Entry / Not Yet Requested,Raegan,Collins,8/23/2005,Female,White,a2xf3000003bpeBAAQ,a2wf300000Cg1i2AAB,Hancock County Schools (TN)
+Darlene,Goings,j357magicebox@gmail.com,(423)300-9186,Confirmed,213 Hopkins St,Sneedville,TN,37869,HCHMS,3968504,Verified,Arianna,Hollingsworth,11/7/2006,,,a2xf3000003bs3bAAA,a2wf300000Cg3RRAAZ,Hancock County Schools (TN)
+Kelly,Johnson,j357magicebox@gmail.com,(423)300-9186,Confirmed,216 Willow St,Sneedville,TN,37869,HCHMS,3844834,Verified,Lewis,Byrd,4/26/2005,,,a2xf3000003brLZAAY,a2wf300000Cg32HAAR,Hancock County Schools (TN)
+Jayla,Pitts,j357magicebox@gmail.com,(333)333-3333,Confirmed,330 Seal Ave,Sneedville,TN,37869,HCELC,0,Verified,John,Pitts,5/14/2014,,,a2xf3000003bsDgAAI,a2wf300000Cg3XFAAZ,Hancock County Schools (TN)
+Alicia,Louthan,j357magicebox@gmail.com,(333)333-3333,Confirmed,3645 Tazewell Hwy,Sneedville,TN,37869,HCHMS,0,Verified,Saybree,baker,1/21/2008,,,a2xf3000003bsOoAAI,a2wf300000Cg3P7AAJ,Hancock County Schools (TN)
+Lisa,Flagg,j357magicebox@gmail.com,(222)222-2222,Confirmed,209 Hopkins St,Sneedville,TN,37869,HCHMS,4308457,Verified,Carl,Shultz,9/11/2020,,,a2xf3000003brwvAAA,a2wf300000Cg3OrAAJ,Hancock County Schools (TN)
+Alice,Johnson,j357magicebox@gmail.com,(222)222-2222,Confirmed,330 Seal Ave,Sneedville,TN,37869,HCES,4673334,Verified,Lacey,Livesay,5/3/2012,,,a2xf3000003bsGaAAI,a2wf300000Cg3YmAAJ,Hancock County Schools (TN)
+Andrew,Johnson,j357magicebox@gmail.com,4233009186,Confirmed,6164 Kyles Ford Hwy,Kyles Ford,TN,37765,HCHMS,0,Verified,Damien,Johnson,8/31/2006,,,a2xf3000003bqpPAAQ,a2wf300000Cg2pwAAB,Hancock County Schools (TN)
+Angela,Poston,angel@poston.nrl,423-733-8751,Confirmed,293 Fleenor Cir,Kyles Ford,TN,37765,Hancock County middle sch,4049102,,Jameson,Poston,5/5/2006,Male,White,a2xf3000003bq3FAAQ,a2wf300000Cg2ITAAZ,Hancock County Schools (TN)
+Crystal,Cope,j357magicebox@gmail.com,(423)300-9186,Confirmed,107 Cemetery St,Sneedville,TN,37869,HCHMS,0,Verified,Reagan,Cope,9/16/2003,,,a2xf3000003bs95AAA,a2wf300000Cg3U6AAJ,Hancock County Schools (TN)
+Paige,Seal,j357magicebox@gmail.com,(423)300-9186,Confirmed,246 Willow St,Sneedville,TN,37869,HCHMS,3406716,Verified,Sam,Seal,9/29/2003,,,a2xf3000003brNaAAI,a2wf300000Cg33ZAAR,Hancock County Schools (TN)
+Mindy,Anderson,j357magicebox@gmail.com,(333)333-3333,Confirmed,164 Bowlin St,Sneedville,TN,37869,HCES,4028357,Verified,Bella,Anderson,5/11/2008,,,a2xf3000003bsCEAAY,a2wf300000Cg3W7AAJ,Hancock County Schools (TN)
+Larry,Haase,j357magicebox@gmail.com,(423)300-9186,Confirmed,1314 Prospect Rd,Sneedville,TN,37869,HCHMS,0,Verified,Riley,Haase,5/5/2011,,,a2xf3000003brSQAAY,a2wf300000Cg369AAB,Hancock County Schools (TN)
+Melita,Sane,j357magicebox@gmail.com,(423)300-9186,Confirmed,2909 Panther Creek Rd,Sneedville,TN,37869,HCES,4637433,Verified,Callie,Sane,6/27/2011,,,a2xf3000003bqsEAAQ,a2wf300000Cg2jzAAB,Hancock County Schools (TN)
+Doug,Wright,j357magicebox@gmail.com,(423)300-9186,Confirmed,260 Burdine Dr,Sneedville,TN,37869,HCHMS,3534100,Verified,Calvin,Wright,3/27/2003,,,a2xf3000003brPrAAI,a2wf300000Cg39XAAR,Hancock County Schools (TN)
+Cindy,Mahan,j357magicebox10@gmail.com,(423)300-9186,Confirmed,2269 Trent Valley Rd,Sneedville,TN,37869,HCHMS,0,Verified,Blake,Mahan,5/14/2002,,,a2xf3000003bs5cAAA,a2wf300000Cg3SUAAZ,Hancock County Schools (TN)
+Dakota,Fye,j357magicebox@gmail.com,(222)222-2222,Confirmed,208 Hopkins St,Sneedville,TN,37869,HCELC,0,Verified,Kennedy,Mullins,12/30/2015,,,a2xf3000003brtbAAA,a2wf300000Cg3MCAAZ,Hancock County Schools (TN)
+Eve,Collins,j357magicebox@gmail.com,(222)222-2222,Confirmed,646 Mabe Hollow Rd,Sneedville,TN,37869,HCHMS,4026694,Verified,Beth,Mullins,2/7/2008,,,a2xf3000003bsZNAAY,a2wf300000Cg3jzAAB,Hancock County Schools (TN)
+Edith,Collins,j357magicebox@gmail.com,(333)333-3333,Confirmed,750 Winstead Rd,Thorn Hill,TN,37881,HCHMS,0,Verified,Anna,Newman,10/4/2003,,,a2xf3000003bsx0AAA,a2wf300000Cg3sOAAR,Hancock County Schools (TN)
+Brandon,Shupe,j357magicebox@gmail.com,(232)322-2222,Confirmed,451 Big Creek Rd,Sneedville,TN,37869,HCHMS,3489807,Verified,Tatum,Shupe,3/15/2002,,,a2xf3000003bsW4AAI,a2wf300000Cg3hjAAB,Hancock County Schools (TN)
+Jodie,Bakely,j357magicebox@gmail.com,(333)333-3333,Confirmed,374 Vista Dr,Thorn Hill,TN,37881,HCHMS,4135641,Verified,Andrew,Bakely,10/11/2004,,,a2xf3000003bsnjAAA,a2wf300000Cg3sIAAR,Hancock County Schools (TN)
+Marty,Ferguson,j357magicebox@gmail.com,(555)555-5555,Confirmed,2072 Newmans Ridge Rd,Sneedville,TN,37869,HCHMS,0,Verified,jaden,Ferguson,8/24/2007,,,a2xf3000003bt0EAAQ,a2wf300000Cg3yQAAR,Hancock County Schools (TN)
+Crystal,Collins,j357magicebox@gmail.com,(333)333-3333,Confirmed,836 Winstead Rd,Thorn Hill,TN,37881,HCES,0,Verified,Devon,Collins,5/28/2009,,,a2xf3000003btJzAAI,a2wf300000Cg47TAAR,Hancock County Schools (TN)
+Michaela,Vanderwoude,j357magicebox@gmail.com,(423)300-9186,Confirmed,153 Jacobs Hollow Rd,Sneedville,TN,37869,HCES,4798638,Verified,Jacob,Bunting,6/17/2011,,,a2xf3000003bsTeAAI,a2wf300000Cg3eMAAR,Hancock County Schools (TN)
+Sandra,Marion,j357magicebox@gmail.com,(333)333-3333,Confirmed,2407 Newmans Ridge Rd,Sneedville,TN,37869,HCES,0,Verified,Alexis,Nickell,9/16/2014,,,a2xf3000003bsdtAAA,a2wf300000Cg3mZAAR,Hancock County Schools (TN)
+Rose,Cope,j357magicebox@gmail.com,(555)555-5555,Confirmed,1046 Winstead Rd,Thorn Hill,TN,37881,HCELC,0,Verified,Tessa,Carroll,1/12/2015,,,a2xf3000003btCuAAI,a2wf300000Cg48zAAB,Hancock County Schools (TN)
+Amanda,Collins,amandamichael80408@gmail.com,423-973-1101,Confirmed,549 War Creek Rd,Thorn Hill,TN,37881,Hancock High School,0,Verified,Anthony,Goins,12/4/2004,Male,White,a2xf3000003bsr8AAA,a2wf300000Cg3uxAAB,Hancock County Schools (TN)
+Jenn,Mullins,j357magicebox@gmail.com,(222)222-2222,Confirmed,2297 Roberts Rd,Sneedville,TN,37869,HCHMS,0,Verified,Mason,Wallen,12/30/2004,,,a2xf3000003bsbnAAA,a2wf300000Cg3fAAAR,Hancock County Schools (TN)
+Trish,White,sara.searl@hcsk12.com,4233008324,Confirmed,884 Caney Valley Rd,Sneedville,TN,37869,Hancock County Middle Sch,3807963,New Entry / Not Yet Requested,Bryson,White,,,,a2xf3000003buq9AAA,a2wf300000Cg4vbAAB,Hancock County Schools (TN)
+Stacey,Harville,j357magicebox@gmail.com,(111)111-1111,Confirmed,1669 Rock Bridge Rd,Thorn Hill,TN,37881,HCHMS,0,Verified,Adam,Wolfe,5/5/2008,,,a2xf3000003btEpAAI,a2wf300000Cg3zjAAB,Hancock County Schools (TN)
+Bertha,Seal,samantha.harvey@hcsk12.com,4233009670,Confirmed,5222 Caney Valley Rd,Sneedville,TN,37869,Hancock Elementary,0,Verified,Trevor,Seal,9/29/2012,Male,American Indian or Alaska Native; White,a2xf3000003bsZ4AAI,a2wf300000Cg3kiAAB,Hancock County Schools (TN)
+Brittany,Hopkins,hopkinsbrittany8@gmail.com,423-300-0474,Confirmed,315 Maple Rd,Sneedville,TN,37869,Hancock Elementary,5639877,Verified,Emmalin,Hokins,11/3/2009,Female,White,a2xf3000003bsc7AAA,a2wf300000Cg3lRAAR,Hancock County Schools (TN)
+Josh,Cooper,j357magicebox@gmail.com,(333)333-3333,Confirmed,8212 Tazewell Hwy,Sneedville,TN,37869,HCHMS,0,Verified,Kyler,Cooper,6/7/2003,,,a2xf3000003btNwAAI,a2wf300000Cg4AMAAZ,Hancock County Schools (TN)
+Julie,Heck,j357magicebox@gmail.com,(666)333-6633,Confirmed,905 Otis Greene Dr,Sneedville,TN,37869,HCHMS,0,Verified,Jillian,Heck,6/6/2002,,,a2xf3000003brvJAAQ,a2wf300000Cg42mAAB,Hancock County Schools (TN)
+Toni,Whalers,j357magicebox@gmail.com,(444)444-4444,Confirmed,154 Livesay St,Sneedville,TN,37869,HCES,0,Verified,John,Shiedy,6/24/2013,,,a2xf3000003btRFAAY,a2wf300000Cg46BAAR,Hancock County Schools (TN)
+Samantha,Hatfield,j357magicebox@gmail.com,(444)444-4444,Confirmed,3217 Highway 131,Thorn Hill,TN,37881,HCHMS,3688224,Verified,Makayla,Hatfield,5/17/2004,,,a2xf3000003btZoAAI,a2wf300000Cg4HwAAJ,Hancock County Schools (TN)
+Shauna,Delph,shaunanurse1234@yahoo.com,4233000518,Confirmed,343 Court Sq,Sneedville,TN,37869,Hancock Elementary,2000212,Verified,Nason,Delph,1/20/2010,Male,White,a2xf3000003bsg4AAA,a2wf300000Cg3cQAAR,Hancock County Schools (TN)
+Teresa,Johnson,j357magicebox@gmail.com,(333)333-3333,Confirmed,1773 Back Valley Rd,Sneedville,TN,37869,HCES,0,Verified,Easton,Collins,5/11/2020,,,a2xf3000003bsizAAA,a2wf300000Cg3piAAB,Hancock County Schools (TN)
+Allie,Collins,j357magicebox@gmail.com,(111)222-33333,Confirmed,1024 Winstead Rd,Thorn Hill,TN,37881,HCHMS,0,Verified,Hunter,Boggs,12/1/2003,,,a2xf3000003btIIAAY,a2wf300000Cg47SAAR,Hancock County Schools (TN)
+Martha,Nichols,j357magicebox@gmail.com,(444)444-4444,Confirmed,1050 Highway 70,Kyles Ford,TN,37765,HCHMS,4036293,Verified,Savannah,Setsor,9/12/2006,,,a2xf3000003bsrbAAA,a2wf300000Cg3uTAAR,Hancock County Schools (TN)
+Kristina,Roark,j357magicebox@gmail.com,(223)333-3333,Confirmed,2025 Rebel Hollow Rd,Tazewell,TN,37879,HCHMS,4283748,Verified,David,Holman,5/5/2005,,,a2xf3000003btZEAAY,a2wf300000Cg4GPAAZ,Hancock County Schools (TN)
+Lacey,Williams,j357magicebox@gmail.com,(333)333-3333,Confirmed,195 Coffey Church Ln,Thorn Hill,TN,37881,HCES,0,Verified,Zachary,Fender,10/27/2009,,,a2xf3000003btDmAAI,a2wf300000Cg44sAAB,Hancock County Schools (TN)
+Marha,Nichols,j357magicebox@gmail.com,(333)333-3333,Confirmed,1050 Highway 70,Kyles Ford,TN,37765,HCHMS,4036293,Verified,Sanannh,Setsor,9/12/2006,,,a2xf3000003bspzAAA,a2wf300000Cg3tVAAR,Hancock County Schools (TN)
+Tessa,Brown,j357magicebox@gmail.com,(222)222-22222,Confirmed,1345 Cool Branch Rd,Sneedville,TN,37869,HCES,0,Verified,Zephyr,Brown,8/11/2011,,,a2xf3000003bsoxAAA,a2wf300000Cg41AAAR,Hancock County Schools (TN)
+Barbara,Bowers,j357magicebox@gmail.com,(333)333-3333,Confirmed,1724 Fox Branch Rd,Kyles Ford,TN,37765,HCES,0,Verified,Kaley,Seals,7/9/2009,,,a2xf3000003bvMUAAY,a2wf300000Cg5GeAAJ,Hancock County Schools (TN)
+Tosha,Riggs,j357magicebox@gmail.com,(333)333-3333,Confirmed,433 Trents Chapel Rd,Sneedville,TN,37869,HCES,0,Verified,Christopher,Boggs,1/4/2011,,,a2xf3000003bvKOAAY,a2wf300000Cg5F2AAJ,Hancock County Schools (TN)
+Martha,Goins,j357magicebox@gmail.com,(444)444-4444,Confirmed,167 Hyatt Ln,Sneedville,TN,37869,Hancock Elem,0,Verified,Branson,Huffman,5/10/2012,,,a2xf3000003bvJqAAI,a2wf300000Cg5FcAAJ,Hancock County Schools (TN)
+Connie,Williams,j357magicebox@gmail.com,(555)555-5555,Confirmed,2683 Stoney Fork Rd,Sneedville,TN,37869,HCHMS,3699605,Verified,Wyatt,Williams,5/5/2004,,,a2xf3000003bv8SAAQ,a2wf300000Cg54PAAR,Hancock County Schools (TN)
+Deb,Riley,rileyautomotive@aol.com,423-300-0535,Confirmed,312 Willow St,Sneedville,TN,37869,Hancock High School,0,Verified,Amber,Thompson,7/23/2007,Female,White,a2xf3000003bvoTAAQ,a2wf300000Cg5VtAAJ,Hancock County Schools (TN)
+Virgil,Collins,j357magicebox@gmail.com,(222)222-2222,Confirmed,1015 Wallen Town Rd,Kyles Ford,TN,37765,HCHMS,0,Verified,Darran,Collins,8/20/2002,,,a2xf3000003bviWAAQ,a2wf300000Cg5AXAAZ,Hancock County Schools (TN)
+Sonia,Fleenor,j357magicebox@gmail.com,3333333333,Confirmed,4512 Tazewell Hwy,Sneedville,TN,37869,HCHMS,0,Verified,Jayden,Fleenor,5/12/2004,,,a2xf3000003bv8QAAQ,a2wf300000Cg58VAAR,Hancock County Schools (TN)
+Harold,Roberts,j357magicebox@gmail.com,(333)333-3333,Confirmed,6140 Mulberry Gap Rd,Sneedville,TN,37869,HCHMS,0,Verified,Cora,Roberts,9/25/2002,,,a2xf3000003bvDwAAI,a2wf300000Cg5AbAAJ,Hancock County Schools (TN)
+Nellie,Martin,nelliemartin@gmail.com,423-300-7217,Confirmed,158 Fred Ln,Sneedville,TN,37869,Hancock Elementary,0,Verified,Dorothy,Dillman,3/9/2010,Female,White,a2xf3000003bvvZAAQ,a2wf300000Cg5ZlAAJ,Hancock County Schools (TN)
+Daniel,Allen,j357magicebox@gmail.com,(333)333-3333,Confirmed,358 Sycamore Cir,Sneedville,TN,37869,HCHMS,0,Verified,Tanner,Allen,10/14/2002,,,a2xf3000003bvC0AAI,a2wf300000Cg58MAAR,Hancock County Schools (TN)
+Amy,Riggs,j357magicebox@gmail.com,(444)444-4444,Confirmed,945 Highway 70,Kyles Ford,TN,37765,HCHMS,0,Verified,Chandler,Parson,5/5/2008,,,a2xf3000003bvKsAAI,a2wf300000Cg5FRAAZ,Hancock County Schools (TN)
+Ronda,Jones,ronda@jones.nrl,423-300-8010,Confirmed,346 Munsey Rd,Sneedville,TN,37869,Hancock County Elementary,4868761,Verified,Elijah,Jones,3/21/2009,Male,Black or African American; White,a2xf3000003bvgfAAA,a2wf300000Cg5UbAAJ,Hancock County Schools (TN)
+Amanda,Heckmer,j357magicebox@gmail.com,(111)111-1111,Confirmed,2080 Snake Hollow Rd,Sneedville,TN,37869,HCHMS,0,Verified,Lacey,Heckmer,10/7/2008,,,a2xf3000003bvNwAAI,a2wf300000Cg5HhAAJ,Hancock County Schools (TN)
+Angela,Poston,j357magicebox@gmail.com,(222)222-22222,Confirmed,293 Fleenor Cir,Kyles Ford,TN,37765,HCHMS,0,Verified,Jameson,Poston,5/5/2006,,,a2xf3000003bv3fAAA,a2wf300000Cg54qAAB,Hancock County Schools (TN)
+Shirley,Severns,j357magicebox@gmail.com,444444444,Confirmed,774 Hurley Rd,Sneedville,TN,37869,HCHMS,0,Verified,James,Bond,5/19/2008,,,a2xf3000003bvNIAAY,a2wf300000Cg5FXAAZ,Hancock County Schools (TN)
+Crystal,Smith,j357magicebox@gmail.com,(222)333-4444,Confirmed,206 Vista Dr,Thorn Hill,TN,37881,HCHMS,0,Verified,Isaac,Smith,7/31/2004,,,a2xf3000003bumhAAA,a2wf300000Cg510AAB,Hancock County Schools (TN)
+Bradley,Ferguson,j357magicebox@gmail.com,(444)444-4444,Confirmed,237 Carroll Rd,Sneedville,TN,37869,HCHMS,0,Verified,Shawn,Ferguson,7/6/2004,,,a2xf3000003bvljAAA,a2wf300000Cg5UHAAZ,Hancock County Schools (TN)
+Victoria,Collins,j357magicebox@gmail.com,(333)333-3333,Confirmed,427 Fox Branch Rd,Kyles Ford,TN,37765,HCES,0,Verified,Brianna,Collins,12/19/2008,,,a2xf3000003bvIOAAY,a2wf300000Cg5AwAAJ,Hancock County Schools (TN)
+Christen,Setsor,christensetsor@gmail.com,423-733-4035,Confirmed,393 Highway 131,Thorn Hill,TN,37881,Hancock High School,0,Verified,Cassie,Setsor,10/13/2005,Female,White,a2xf3000003bviCAAQ,a2wf300000Cg5VFAAZ,Hancock County Schools (TN)
+April,Herron,j357magicebox@gmail.com,(222)222-2222,Confirmed,140 Whitney Cir Apt 189,Sneedville,TN,37869,HCES,4315638,Verified,Caleb,Bunch,11/2/2009,,,a2xf3000003bvIDAAY,a2wf300000Cg5DfAAJ,Hancock County Schools (TN)
+Megan,O'Keefe,j357magicebox@gmail.com,(222)222-2222,Confirmed,2984 Tazewell Hwy,Sneedville,TN,37869,HCHMS,0,Verified,Brianna,Shores,5/5/2008,,,a2xf3000003bvPEAAY,a2wf300000Cg5ILAAZ,Hancock County Schools (TN)
+Lorena,O'Bryan,j357magicebox@gmail.com,(888)888-8888,Confirmed,1685 Highway 70,Kyles Ford,TN,37765,HCHMS,0,Verified,Alexis,Collins,5/12/2005,,,a2xf3000003bvqyAAA,a2wf300000Cg5W4AAJ,Hancock County Schools (TN)
+Mike,Fleenor,j357magicebox@gmail.com,(333)333-3333,Confirmed,617 Fleenor Cir,Kyles Ford,TN,37765,HCHMS,0,Verified,Joseph,Fleenor,6/16/2005,,,a2xf3000003bvEfAAI,a2wf300000Cg5BKAAZ,Hancock County Schools (TN)
+Shawna,Seal,jennifer.seal@hcsk12.com,423-300-4048,Confirmed,932 Wolfe Cir,Thorn Hill,TN,37881,Hancock County Elementary,0,Verified,Rayne,Seal,12/7/2010,Female,White,a2xf3000003bvkIAAQ,a2wf300000Cg5UCAAZ,Hancock County Schools (TN)
+Carolyn,Jordan,j357magicebox@gmail.com,(787)878-7878,Confirmed,140 Whitney Cir Apt 185,Sneedville,TN,37869,HCES,0,Verified,Kasydi,Delph,1/4/2011,,,a2xf3000003bvHfAAI,a2wf300000Cg5ADAAZ,Hancock County Schools (TN)
+Johnny,Seal,j357magicebox@gmail.com,333333333,Confirmed,755 Campbell Dr,Sneedville,TN,37869,HCES,0,Verified,Kylie,Seal,8/26/2013,,,a2xf3000003bvEWAAY,a2wf300000Cg5CmAAJ,Hancock County Schools (TN)
+Samantha,Hurst,j357magicebox@gmail.com,(222)222-2222,Confirmed,2195 Main St,Sneedville,TN,37869,HCES,0,Verified,Alexandria,Hurst,9/27/2013,,,a2xf3000003bvk2AAA,a2wf300000Cg5TTAAZ,Hancock County Schools (TN)
+Tammy,Trent,ttrent0802@yahoo.com,423-300-2060,Confirmed,514 Dogwood Hts,Sneedville,TN,37869,Hancock High School,0,Verified,Jadon,Taylor,12/12/2003,Male,White,a2xf3000003bvsaAAA,a2wf300000Cg5XuAAJ,Hancock County Schools (TN)
+Cheryl,Shirley,j357magicebox@gmail.com,222222222,Confirmed,278 Bowlin Cemetery,Thorn Hill,TN,37881,HCHMS,0,Verified,Cierra,Shirley,9/20/2003,,,a2xf3000003bvFjAAI,a2wf300000Cg5CNAAZ,Hancock County Schools (TN)
+Donna,Johnson,j357magicebox@gmail.com,(333)333-3333,Confirmed,111 Nielson Ln,Sneedville,TN,37869,HCES,0,Verified,Kylee,Powell,8/27/2013,,,a2xf3000003bvDdAAI,a2wf300000Cg5DBAAZ,Hancock County Schools (TN)
+Margie,Carrol,j357magicebox@gmail.com,(222)333-4444,Confirmed,395 Carroll Rd,Sneedville,TN,37869,HCES,0,Verified,Emma,Williams,2/13/2013,,,a2xf3000003bvkRAAQ,a2wf300000Cg5TiAAJ,Hancock County Schools (TN)
+Audrey,Brewer,j357magicebox@gmail.com,(222)222-2222,Confirmed,143 Home Circle Dr,Sneedville,TN,37869,HCHMS,0,Verified,Shelby,Brewer,11/4/2004,,,a2xf3000003bv39AAA,a2wf300000Cg53WAAR,Hancock County Schools (TN)
+Raymond,Bunting,jacob@bunting.nrl,8653154009,Confirmed,149 Water Fall Creek Rd,Sneedville,TN,37869,Hancock County Elementary,2001060,Verified,Jacob,Bunting,6/17/2020,,,a2xf3000003bxzxAAA,a2wf300000Cg6gPAAR,Hancock County Schools (TN)
+Bryson,Johnson,bryson@johnson.nrl,(865)279-1520,Confirmed - By Dropping Secondary Info,162 Manor Dr Apt C4,Sneedville,TN,37869,Hancock County,0,Verified,Bryson,Johnson,,,,a2xf300000Aj5UzAAJ,a2wf300000HNN2NAAX,Hancock County Schools (TN)
+Olivia,Johnson,angela.rasnci@hcsk12.com,423-733-1762,Confirmed - By Dropping Secondary Info,165 Manor Dr Apt K-2,Sneedville,TN,37869,Hancock Elementary,4549768,Verified,Kennedy,Collins,8/10/2010,,,a2xf300000Aj8m3AAB,a2wf300000HNOn5AAH,Hancock County Schools (TN)
+Kayla,Glover,gloverkayla23@gmail.com,4233000980,Confirmed - By Dropping Secondary Info,140 Whitney Cir Apt E179,Sneedville,TN,37869,Hancock County Elementary,4637449,Verified,Jazmine,Glover,8/30/2012,Female,,a2xf300000Aj9wOAAR,a2wf300000HNPTFAA5,Hancock County Schools (TN)
+Rikke,Harrington,sue.carney@hcsk12.com,423-300-7378,Confirmed - By Dropping Secondary Info,3047 Main St # 17,Sneedville,TN,37869,Hancock cty middle/high,4831455,Verified,Jesse,Harrington,3/12/2006,Male,White,a2xf300000AjBTpAAN,a2wf300000HNR5EAAX,Hancock County Schools (TN)
+Kenneth,Sexton,amy.harrell@hcsk12.com,4233005794,Confirmed - By Dropping Secondary Info,217 Manor Dr Apt H4,Sneedville,TN,37869,Hancock Elementary,1FSL5CE17,Verified,Kenzington,Sexton,6/16/2010,Female,,a2xf300000AjBqsAAF,a2wf300000HNRHFAA5,Hancock County Schools (TN)
+Lorene,Craine,lorene@craine.nrl,423-733-4241,Confirmed - By Dropping Secondary Info,235 Manor Dr Apt F2,Sneedville,TN,37869,Hancock County Elementary,3881324,Verified,Dennis,Collins,,Male,,a2xf300000AjAxPAAV,a2wf300000HNQmqAAH,Hancock County Schools (TN)
+Kimberly,Villarreal,kim.villarreal@gmail.com,423-300-1982,Confirmed - By Dropping Secondary Info,185 Manor Dr Apt J3,Sneedville,TN,37869,Hancock County Elementary,4309395,,Samuel,French,8/22/2008,Male,,a2xf300000AjB3WAAV,a2wf300000HNQlFAAX,Hancock County Schools (TN)
+Patricia,Hill,snuffyone7@hotmail.com,4233001288128,Confirmed - By Dropping Secondary Info,128 Manor Dr Apt A2,Sneedville,TN,37869,HCES,4435193,New Entry / Not Yet Requested,Connor,Hill,8/1/2011,Male,White,a2xf300000AjE4wAAF,a2wf300000HNSP4AAP,Hancock County Schools (TN)
+Miranda,Skellinger,becky.mccoy@hcsk12.com,(865)279-5525,Confirmed - By Dropping Secondary Info,168 Whitney Cir Apt C147,Sneedville,TN,37869,Hancock county elementary,2000817,New Entry / Not Yet Requested,Sadie,Delph,7/1/2014,,,a2xf300000AjG5DAAV,a2wf300000HNTPKAA5,Hancock County Schools (TN)
+Alexis,Douglas,alexis.douglas156@gmail.com,4233004087,Confirmed - By Dropping Secondary Info,162 Manor Dr Apt C1,Sneedville,TN,37869,Hancock Elementary,4946871,New Entry / Not Yet Requested,Kason,Gulley,3/11/2014,Male,White,a2xf3000003bga9AAA,a2wf300000CfwqUAAR,Hancock County Schools (TN)
+Jody,Pryor,j357magicebox@gmail.com,(232)222-2222,Confirmed - By Dropping Secondary Info,1006 Otis Greene Dr # 1006,Sneedville,TN,37869,HCELC,0,Verified,Tamara,Frye,2/18/2016,,,a2xf3000003bquMAAQ,a2wf300000Cg3L9AAJ,Hancock County Schools (TN)
+Cole,Johnson,j357magicebox@gmail.com,(423)300-9186,Confirmed - By Dropping Secondary Info,1001 Otis Greene Dr # 1001,Sneedville,TN,37869,HCES,0,Verified,Paxton,Johnson,7/28/2011,,,a2xf3000003brgSAAQ,a2wf300000Cg3ErAAJ,Hancock County Schools (TN)
+Nancy,Rimer,j357magicebox@gmail.com,(333)232-3232,Confirmed - By Dropping Secondary Info,215 Hopkins St # 215,Sneedville,TN,37869,HCES,4225310,Verified,Natalie,Rimer,5/4/2009,,,a2xf3000003bs2YAAQ,a2wf300000Cg3QnAAJ,Hancock County Schools (TN)
+Carl,Koch,j357magicebox@gmail.com,(432)200-4839,Confirmed - By Dropping Secondary Info,205 Otis Greene Dr # 205,Sneedville,TN,37869,HCHMS,4781888,Verified,Tristan,Koch,12/15/2005,,,a2xf3000003br74AAA,a2wf300000Cg3CbAAJ,Hancock County Schools (TN)
+Teresa,Seal,j357magicebox@gmail.com,(423)300-9186,Confirmed - By Dropping Secondary Info,1004 Otis Greene Dr # 1004,Sneedville,TN,37869,HCHMS,0,Verified,Haley,Seal,5/5/2010,,,a2xf3000003brmaAAA,a2wf300000Cg3HqAAJ,Hancock County Schools (TN)
+Amber,Baker,j357magicebox@gmail.com,333333333,Confirmed - By Dropping Secondary Info,224 Hopkins St # 224,Sneedville,TN,37869,HCELC,0,Verified,Alycha,Baker,10/16/2015,,,a2xf3000003bsN3AAI,a2wf300000Cg3cKAAR,Hancock County Schools (TN)
+Rebecca,Davis,j357magicebox@gmail.com,(423)300-9186,Confirmed - By Dropping Secondary Info,202 Otis Greene Dr # 202,Sneedville,TN,37869,HCHMS,3761779,Verified,Brady,Seal,7/22/2005,,,a2xf3000003braKAAQ,a2wf300000Cg35RAAR,Hancock County Schools (TN)
+Samantha,Seal,j357magicebox@gmail.com,(444)444-4444,Confirmed - By Dropping Secondary Info,168 Whitney Cir Apt C-145,Sneedville,TN,37869,HCHMS,0,Verified,Jordan,Baker,12/18/2002,,,a2xf3000003bvnQAAQ,a2wf300000Cg5VKAAZ,Hancock County Schools (TN)
+Leah,Holt,leah@holt.nrl,(423)300-2452,Confirmed - Family Package Receipts,804 parkey hollow rd,Sneedville,Tennessee - TN,37689,Hancock middle,4018025,New Entry / Not Yet Requested,Kaylee,Jones,1/11/2007,Female,White,a2xf300000AjBRdAAN,a2wf300000HNR38AAH,Hancock County Schools (TN)
+Wilbur,Smith,wilbur@smith.nrl,423-300-0840,Confirmed - Local Postmaster,500 Brownlo Road,Sneedville,Tennessee - TN,37869,Hancock Elementary,0,Verified,Aison,Smith,7/26/2011,Male,,a2xf3000003bfBeAAI,a2wf300000Cfw7jAAB,Hancock County Schools (TN)
+Molly,Seal,j357magicebox@gmail.com,(777)777-7777,Confirmed - Local Postmaster,308 Adam Lane,Sneedville,Tennessee - TN,37869,HCES,0,Verified,Sadie,Haverland,6/10/2011,,,a2xf3000003bvOCAAY,a2wf300000Cg5JEAAZ,Hancock County Schools (TN)
+Rebecca,Seals,beckyseals0425@gmail.com,4233005730,Confirmed - Manual,4152 Caney Valley Rd,Sneedville,TN,37869,Hancock County High Schoo,0,Verified,Katelyn,Zachary,8/20/2003,Female,,a2xf300000Aj5ouAAB,a2wf300000HNNEDAA5,Hancock County Schools (TN)
+Tana,Maloratsky,goofiranger@gmail.com,(423)724-7214,Confirmed - Manual,204 Hoot Owl Hollow Rd,Kyles Ford,TN,37765,Hancock Elementary,4786976,Verified,Princeton,Vigil,7/8/2012,,,a2xf300000Aj8SDAAZ,a2wf300000HNOc1AAH,Hancock County Schools (TN)
+Julia,Collins,emily.gibson@hcsk12.com,(423)733-1762,Confirmed - Manual,496 Sunset Hls,Sneedville,TN,37869,Hancock County Early Lear,2000818,Verified,Allyson,Collins,8/22/2014,Female,White,a2xf300000AjFTOAA3,a2wf300000HNT5eAAH,Hancock County Schools (TN)
+William,Grabowski,jdeckersr@outdrs.net,423-724-8605,Confirmed - Manual,1179 Highway 70,Kyles Ford,TN,37765,Hancock Elementary,5036200,Verified,Jayce,Grabowski,4/7/2013,,,a2xf300000AjDvpAAF,a2wf300000HNSKsAAP,Hancock County Schools (TN)
+Ashley,Hopkins,emily.gibson@hcsk12.com,4237331762,Confirmed - Manual,350 Johnny Ln,Sneedville,TN,37869,HANCOCK COUNTY EARLY LEAR,2001250,Verified,Jack,Hopkins,9/14/2014,Male,White,a2xf300000AjFQ0AAN,a2wf300000HNT3dAAH,Hancock County Schools (TN)
+Amanda,Greene,emily.gibson@hcsk12.com,4237331762,Confirmed - Manual,174 Cemetery St,Sneedville,TN,37869,Hancock County Early Lear,200899,Verified,Elijah,Greene,12/4/2014,Male,White,a2xf300000AjFS6AAN,a2wf300000HNT4vAAH,Hancock County Schools (TN)
+Olivia,Johnson,angela.rasnic@hcsk12.com,423-733-1762,Confirmed - Missing Secondary Info,165 Manor Dr,Sneedville,TN,37869,Hancock Elementary,4549768,Verified,Kennedy,Collins,8/10/2010,,,a2xf300000Aj9FGAAZ,a2wf300000HNP87AAH,Hancock County Schools (TN)
+Tonia,Smith,lynn.drinnon@hcsk12.com,423-300-1959,Confirmed - Missing Secondary Info,168 Whitney Cir,Sneedville,TN,37869,Hancock county elementary,2000696,New Entry / Not Yet Requested,Allison,Smith,1/30/2012,Female,White,a2xf300000AjFIVAA3,a2wf300000HNT0FAAX,Hancock County Schools (TN)
+Don,McClure,lynn.drinnon@hcsk12.com,423-300-3158,Confirmed - Missing Secondary Info,127 Whitney Cir,Sneedville,TN,37869,Hancock county elementary,2001235,New Entry / Not Yet Requested,Connor,McClure,10/6/2011,Male,White,a2xf300000AjFdJAAV,a2wf300000HNTAZAA5,Hancock County Schools (TN)
+Tonia,Smith,kaitlyn.harrison@hcsk12.com,423-300-4717,Confirmed - Missing Secondary Info,168 Whitney Cir,Sneedville,TN,37869,Hancock Middle/High,4159074,Verified,Madison,Smith,3/31/2007,,,a2xf3000003bhJ0AAI,a2wf300000CfxNYAAZ,Hancock County Schools (TN)
+Sabrina,Bunch,jane@doe.nrl,4233004931,Confirmed - Missing Secondary Info,378 New Jail St,Sneedville,TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Sadie,Bunch,10/15/2013,Female,White,a2xf3000003bkiRAAQ,a2wf300000CfzKqAAJ,Hancock County Schools (TN)
+Sabrina,Bunch,jane@doe.nrl,423-300-4931,Confirmed - Missing Secondary Info,378 New Jail St,Sneedville,TN,37869,Hancock County Middle,0,Verified,Alexis,Bunch,6/22/2006,Female,White,a2xf3000003bpu8AAA,a2wf300000Cg2D4AAJ,Hancock County Schools (TN)
+Katie,Ferrell,j357magicebox@gmail.com,(423)300-9186,Confirmed - Missing Secondary Info,3047 Main St,Sneedville,TN,37869,HCES,0,Verified,Paislee,Ferell,3/17/2015,,,a2xf3000003brJYAAY,a2wf300000Cg31EAAR,Hancock County Schools (TN)
+Emily,Johnson,mavaut88@gmail.com,4239731806,Confirmed - Missing Secondary Info,221 Manor Dr,Sneedville,TN,37869,Hancock County Middle Sch,3701476,New Entry / Not Yet Requested,Autumn,Bowlin,12/6/2005,,,a2xf3000003bunyAAA,a2wf300000Cg4uYAAR,Hancock County Schools (TN)
+Christy,Wilder,lynn.drinnon@hcsk12.com,423-500-9019,Confirmed - UPS.com,191 Kyle Valley Road,Eidson,Tennessee - TN,37731-1706,Hancock county elementary,2001278,New Entry / Not Yet Requested,Alyssa,Wilder,11/8/2011,Female,White,a2xf300000AjFaZAAV,a2wf300000HNT9RAAX,Hancock County Schools (TN)
+Elizabeth,Ramsey,misty.rasnic@hcsk12.com,423-733-4340,Confirmed - UPS.com,3247 MAIN ST,SNEEDVILLE,Tennessee - TN,37869-3027,HANCOCK COUNTY ELEMENTARY,4378992,Verified,RUSTY,BELL,11/25/2005,Male,White,a2xf300000Aj67DAAR,a2wf300000HNNNKAA5,Hancock County Schools (TN)
+Kim,Crawford,sherry.hunt@hcsk12.com,4233002709,Confirmed - UPS.com,2021 Mulberry Gap,Sneedville,Tennessee - TN,37869,Hancock County Elementary,4416683,Verified,Gracie,Crawford,,Female,White,a2xf300000Aj5ZQAAZ,a2wf300000HNN77AAH,Hancock County Schools (TN)
+Annie,Collins,anne@collins.nrl,4237334746,Confirmed - UPS.com,518 Fortner Road,Tazewell,Tennessee - TN,37879,Hancock County,0,Verified,Annie,Collins,,Female,White,a2xf300000Aj5R2AAJ,a2wf300000HNN3AAAX,Hancock County Schools (TN)
+Ashley,Albright,suem0435@yahoo.com,4233000435,Confirmed - UPS.com,965 West Trent Valley Road,Sneedville,Tennessee - TN,37869,Hancock County Middle Sch,5612490,Verified,Morgan,Albright,4/24/2008,Male,White,a2xf300000Aj3j4AAB,a2wf300000HNMBYAA5,Hancock County Schools (TN)
+Katie,Riley,katieriley106@yahoo.com,423-300-2305,Confirmed - UPS.com,263 Jarvis Street,Sneedville,Tennessee - TN,37869,Hancock Elementary,0,Not Required,Zylar,Riley,12/9/2009,Male,Black or African American; White,a2xf300000Aj45oAAB,a2wf300000HNMNiAAP,Hancock County Schools (TN)
+Casey,Morris,cassandra.bunch@hcsk12.com,4233008660,Confirmed - UPS.com,526 Bowlin Cemetery,Thorn Hill,Tennessee - TN,37881,Hancock County Elementary,4637455,Verified,Liam,Morris,8/6/2013,Male,White,a2xf300000Aj3WAAAZ,a2wf300000HNM5aAAH,Hancock County Schools (TN)
+Becky,Graham,kmtrent07@gmail.com,8654695903,Confirmed - UPS.com,262 Luther Villa,Sneedville,Tennessee - TN,37869,Hancock county High schoo,2XO72ZR32,Verified,Hayley,Helmick,9/8/2004,Female,White,a2xf300000Aj3xaAAB,a2wf300000HNMJMAA5,Hancock County Schools (TN)
+Heather,Fugate,heatherfugate79@yahoo.com,423-300-8186,Confirmed - UPS.com,163 Camilla Villa,Sneedville,Tennessee - TN,37869-4210,Hancock County High Schoo,0,Verified,Remi,Fugate,9/1/2004,Male,,a2xf300000Aj4AoAAJ,a2wf300000HNMQSAA5,Hancock County Schools (TN)
+Daniel,Simpson,jenngreene1974@gmail.com,423-300-9573,Confirmed - UPS.com,1192 Rackum Road,Thorn Hill,Tennessee - TN,37881,Hancock Middle School,4257255,Verified,Darren,Simpson,8/28/2008,Male,White,a2xf300000Aj4B4AAJ,a2wf300000HNMOmAAP,Hancock County Schools (TN)
+Casey,Morris,cassandra.bunch@hcsk12.com,4233008660,Confirmed - UPS.com,526 Bowlin Cemetery,Thorn Hill,Tennessee - TN,37881,Hancock County Elementary,4637455,Verified,Liam,Morris,8/6/2013,Male,White,a2xf300000Aj3nRAAR,a2wf300000HNMHQAA5,Hancock County Schools (TN)
+Marty,Ferguson,fergusonmarty67@yahoo.com,4233004522,Confirmed - UPS.com,2072 Newmans Ridge Road,Sneedville,Tennessee - TN,37869,Hancock Middle School,5046023,Verified,Jaden,Ferguson,8/24/2007,Male,White,a2xf300000Aj3ZJAAZ,a2wf300000HNM77AAH,Hancock County Schools (TN)
+Tonya,Skellinger,cassandra.bunch@hcsk12.com,(423)300-9372,Confirmed - UPS.com,180 Camilla Villa,Sneedville,Tennessee - TN,37869,Hancock County Elementary,4626644,Verified,Micah,Skellinger,1/22/2013,Male,White,a2xf300000Aj3XrAAJ,a2wf300000HNM6JAAX,Hancock County Schools (TN)
+Tony,Moon,shawna.mcdonald@hcsk12.com,4233003267,Confirmed - UPS.com,965 Mountain Valley Hwy 131,Thorn Hill,Tennessee - TN,37881,HCMS,4159117,Verified,Kirby,Moon,7/21/2007,Male,White,a2xf300000Aj5D0AAJ,a2wf300000HNMvzAAH,Hancock County Schools (TN)
+Emily,Johnson,misty.rasnic@hcsk12.com,423-724-8582,Confirmed - UPS.com,517 Yount Town Road,Thorn Hill,Tennessee - TN,37881,Hancock County Elementary,2000115,Verified,Athan,Collins,,Male,White,a2xf300000Aj64nAAB,a2wf300000HNNLxAAP,Hancock County Schools (TN)
+Kathie,Hall,mommyofeah@gmail.com,4079473140,Confirmed - UPS.com,5273 Vardy Blackwater,Sneedville,Tennessee - TN,37869,Hancock County Elementary,0,Verified,Honesty,Hall,11/7/2011,Female,,a2xf300000Aj5srAAB,a2wf300000HNNFkAAP,Hancock County Schools (TN)
+Misty,LaPrade,misty.laprade@hcsk12.com,8659780895,Confirmed - UPS.com,812 Delmer Welch Rd.,Thorn Hill,Tennessee - TN,37881,Hancock County Elementary,4552555,Verified,Alex,LaPrade,10/21/2011,Male,White,a2xf300000Aj6dJAAR,a2wf300000HNNaUAAX,Hancock County Schools (TN)
+Melissa,Stewart,melissa@stewart.nrl,(423)300-2452,Confirmed - UPS.com,2170 panther creek rd,Sneedville,Tennessee - TN,37869,Hancock elementary,0,New Entry / Not Yet Requested,Tyler,Stewart,5/27/2010,Male,White,a2xf300000AjBTUAA3,a2wf300000HNR4GAAX,Hancock County Schools (TN)
+Valerie,Harrison,valarie.harrison@hcsk12.com,4237331479,Confirmed - UPS.com,825 North Union Rd.,Thorn Hill,Tennessee - TN,37869,Hancock County High Schoo,0,Not Required,Everly,Harrison,9/24/2015,Prefer Not to Answer,Not Listed,a2xf300000Aj8wmAAB,a2wf300000HNOueAAH,Hancock County Schools (TN)
+CiJi,Nichols,sherry.hunt@hcsk12.com,4233077029,Confirmed - UPS.com,168 Collins Road,Sneedville,Tennessee - TN,37869,Hancock County Elementary,4350086,Verified,Tanner,Marion,1/14/2009,Male,White,a2xf300000Aj7YRAAZ,a2wf300000HNO7hAAH,Hancock County Schools (TN)
+Chastity,Collins,diamondchastity@yahoo.com,4233001650,Confirmed - UPS.com,268 Jarvis Street,Sneedville,Tennessee - TN,37869,Hancock County,4747068,Verified,Kiser,Collins,10/15/2012,,,a2xf300000AjApFAAV,a2wf300000HNQgxAAH,Hancock County Schools (TN)
+Connie,South,nolan.campbell@hcsk12.com,423-300-9256,Confirmed - UPS.com,1138 Swan Creek,Sneeville,Tennessee - TN,37869,HCMHS,JZNOTIK7A,New Entry / Not Yet Requested,Jeremiah,South,1/26/2002,Male,,a2xf300000Aj9X4AAJ,a2wf300000HNPEeAAP,Hancock County Schools (TN)
+Rachael,LAwson,leisarogers@gmail.com,(423)733-1762,Confirmed - UPS.com,3421 Hwy 70,Eidson,Tennessee - TN,37881,HELC,4784153,New Entry / Not Yet Requested,Wyatt,Anthony,4/2/2015,,,a2xf300000Aj9lrAAB,a2wf300000HNPOAAA5,Hancock County Schools (TN)
+Makenzie,Lawson,makenzie@lawson.nrl,4233007958,Confirmed - UPS.com,115 Dave Roberts road,Sneedville,Tennessee - TN,37869,HANCOCK middle,5144858,New Entry / Not Yet Requested,Makenzie,Lawson,12/4/2007,,,a2xf300000Aj9fDAAR,a2wf300000HNPJLAA5,Hancock County Schools (TN)
+Angel,Stewart,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed - UPS.com,3047 Main Street,Sneedville,Tennessee - TN,37869,HCELC,4811522,Verified,Izac,Stewart,10/19/2016,,,a2xf300000Aj9amAAB,a2wf300000HNPGzAAP,Hancock County Schools (TN)
+Erica,Dean,ericadean2005@gmail.com,8652786102,Confirmed - UPS.com,2683 Fourmile Creek,Tazewell,Tennessee - TN,37879,HCMS,0,New Entry / Not Yet Requested,Shooter,Dean,,Male,White,a2xf300000AjAEMAA3,a2wf300000HNPcqAAH,Hancock County Schools (TN)
+Dolly,Ramsey,dolly@ramsey.nrl,4233001233,Confirmed - UPS.com,1363 black valley,Sneedville,Tennessee - TN,37869,HANCOCK middle,5604927,New Entry / Not Yet Requested,Riley,Johnson,8/29/2008,,,a2xf300000Aj9WhAAJ,a2wf300000HNPH4AAP,Hancock County Schools (TN)
+Amy,Johnson,brandon.gibbs@hcsk12.com,423-300-1063,Confirmed - UPS.com,1041 Vardy Blackwater Road,Sneedville,Tennessee - TN,37869,Hancock Middle,0,Verified,Haley,Johnson,1/26/2007,Female,White,a2xf300000AjADoAAN,a2wf300000HNPclAAH,Hancock County Schools (TN)
+Marty,Collins,whitney.fleenor@hcsk12.com,4239731489,Confirmed - UPS.com,305 Vardy Blackwater,Sneedville,Tennessee - TN,37869,Hancock ELC,0,New Entry / Not Yet Requested,Ashton,Collins,,Male,White,a2xf300000AjCdBAAV,a2wf300000HNRfQAAX,Hancock County Schools (TN)
+Erica,Fodor,amy.harrell@hcsk12.com,4233000213,Confirmed - UPS.com,287 Court Sq,Sneedville,Tennessee - TN,37869,Hancock County Elementary,0,Verified,Braxton,Addysn,3/21/2013,Female,,a2xf300000AjBV8AAN,a2wf300000HNRDIAA5,Hancock County Schools (TN)
+Miranda,Russell,miranda@russell.nrl,4233002452,Confirmed - UPS.com,438 treadway circle,Thorn hill,Tennessee - TN,37881,Hancock middle,4716286,New Entry / Not Yet Requested,Myla,Russell,8/25/2006,Female,White,a2xf300000AjBcWAAV,a2wf300000HNR9GAAX,Hancock County Schools (TN)
+Lynsey,Mullins,angela.rasnic@hcsk12.com,(423)733-1762,Confirmed - UPS.com,246 Camilla Villa,Sneedville,Tennessee - TN,37869,HCELC,4609652,Verified,Hadley,Sharp,10/16/2014,,,a2xf300000AjAzKAAV,a2wf300000HNQmRAAX,Hancock County Schools (TN)
+Shawna,Wade,mshawna1992@gmail.com,4233530888,Confirmed - UPS.com,249 Teepee Lane,Bean Station,Tennessee - TN,37708,Hancock County,4441835,Verified,Jaden,Wade,6/14/2012,,,a2xf300000AjAyvAAF,a2wf300000HNQmMAAX,Hancock County Schools (TN)
+Melissa,Whitney,melissa@whitney.nrl,423-327-3066,Confirmed - UPS.com,1492 Trent Valley Road.,Sneedville,Tennessee - TN,37869,3808062,3808062,Verified,Mason,Whitney,6/24/2006,Male,White,a2xf300000AjBx0AAF,a2wf300000HNRKEAA5,Hancock County Schools (TN)
+Glenda,Crider,rustylittlegirl@live.com,4233000397,Confirmed - UPS.com,360 Sunrise View,Sneedville,Tennessee - TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Curtis,Cupp,,Male,White,a2xf300000AjEtBAAV,a2wf300000HNSoOAAX,Hancock County Schools (TN)
+Amanda,Hohnson,lynn.drinnon@hcsk12.com,423-733-1469,Confirmed - UPS.com,596 Sweet Creek,Eidson,Tennessee - TN,37731-2221,Hancock county elementary,2000671,New Entry / Not Yet Requested,Aiden,Johnson,4/10/2012,Male,White,a2xf300000AjFeRAAV,a2wf300000HNTBJAA5,Hancock County Schools (TN)
+Paul,Bennett,charity@bennett.nrl,4233000600,Confirmed - UPS.com,218 Charles St.,Sneedville,Tennessee - TN,37869,Hancock County High Schoo,3406762,Verified,Charity,Bennett,8/15/2002,Prefer Not to Answer,Not Listed,a2xf300000AjFvSAAV,a2wf300000HNTK0AAP,Hancock County Schools (TN)
+Tabetha,Greene,emily.gibson@hcsk12.com,4237331762,Confirmed - UPS.com,526 Elrod Circle,Thorn Hill,Tennessee - TN,37881,Hancock County Early Lear,2001228,Verified,Addisyn,Greene,8/3/2020,Female,White,a2xf300000AjFT5AAN,a2wf300000HNT5UAAX,Hancock County Schools (TN)
+Amy,Adams,tara.west@hcsk12.com,(865)340-1319,Confirmed - UPS.com,1073 Vardy Blackwater,Sneedville,Tennessee - TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Malaky,Blair,11/18/2008,Male,White,a2xf300000AjFwfAAF,a2wf300000HNTKjAAP,Hancock County Schools (TN)
+Amanda,Johnson,amanda@johnson.nrl,423-300-0412,Confirmed - UPS.com,598 Sweet Creek,Eidson,Tennessee - TN,37731,Hancock Elementary,0,New Entry / Not Yet Requested,Aiden,Johnson,4/10/2012,Male,,a2xf3000003beiQAAQ,a2wf300000Cfvp1AAB,Hancock County Schools (TN)
+Sarah,Ramsey,jennifer.seal@hcsk12.com,4237332534,Confirmed - UPS.com,399 Turner Hollow,Sneedville,Tennessee - TN,37869,Hancock County Elementary,4173850,Verified,Launa,Ramsey,3/10/2009,Female,White,a2xf3000003bfEqAAI,a2wf300000Cfw62AAB,Hancock County Schools (TN)
+Dawn,Slone,tara.west@hcsk12.com,(586)540-7436,Confirmed - UPS.com,2241 West Trent Valley,Sneedville,Tennessee - TN,37869,Hancock County Elementary,0,New Entry / Not Yet Requested,Caylie,Winchester,10/23/2012,Female,White,a2xf300000AjG3MAAV,a2wf300000HNTONAA5,Hancock County Schools (TN)
+Katrina,Bolden,katrina@bolden.nrl,423-300-5695,Confirmed - UPS.com,221 Manor drive apt G-3,Sneedville,Tennessee - TN,37869,4272993,0,New Entry / Not Yet Requested,Rhealea,Bolden,12/4/2003,Female,White,a2xf3000003bit3AAA,a2wf300000CfyDGAAZ,Hancock County Schools (TN)
+Lakota,Collins,becky.mccoy@hcsk12.com,(423)300-5524,Confirmed - UPS.com,1411 Johnsons ridge rd,Sneedville,Tennessee - TN,37869,Hancock county elementary,2001208,New Entry / Not Yet Requested,Kajun,Collins,2/17/2014,,,a2xf3000003blnNAAQ,a2wf300000CfzxnAAB,Hancock County Schools (TN)
+Leah,Gibson,becky.mccoy@hcsk12.com,4247332471,Confirmed - UPS.com,P.O box 361,Sneedville,Tennessee - TN,37869,Hancock county elementary,2000832,Verified,Brentlee,Dalton,11/1/2014,,,a2xf3000003blehAAA,a2wf300000CfzwuAAB,Hancock County Schools (TN)
+Pheadra,Barker,glenda.nichols@hcsk12.com,4233000113,Confirmed - UPS.com,233 Luther Villa Road,Sneedville,Tennessee - TN,37869,Hancock High,4192401,,Morgan,Fleenor,2/25/2003,Male,White,a2xf3000003blxxAAA,a2wf300000Cg09jAAB,Hancock County Schools (TN)
+Judy,Hopkins,glenda.nichols@hcsk12.com,4233000113,Confirmed - UPS.com,822 Main Street,Sneedville,Tennessee - TN,37869,Hancock High,4275346,,Austin,Booker,12/2/2003,Male,White,a2xf3000003bmBFAAY,a2wf300000Cg0B1AAJ,Hancock County Schools (TN)
+Toshia,Riggs,glenda.nichols@hcsk12.com,4233008994,Confirmed - UPS.com,433 Trents Chapel Road,Sneedville,Tennessee - TN,37869,Hancock High,4194249,,Tara,Riggs,3/18/2002,Female,White,a2xf3000003bm7rAAA,a2wf300000Cg08qAAB,Hancock County Schools (TN)
+Julie,Bowlin,julie@bowlin.nrl,423-736-1292,Confirmed - UPS.com,165 Orchid Lane,Thorn Hill,Tennessee - TN,37881,Hancock County High Schoo,0,New Entry / Not Yet Requested,Jasper,Bowlin,8/30/2011,Male,White,a2xf3000003bplaAAA,a2wf300000Cg1x2AAB,Hancock County Schools (TN)
+Joe,Davis,joe@davis.nrl,423-300-1470,Confirmed - UPS.com,995 war creek road,Thorn Hill,Tennessee - TN,37881,Hancock County middle sch,0,,Caleb,Davis,2/28/2007,Male,White,a2xf3000003bpxXAAQ,a2wf300000Cg2FKAAZ,Hancock County Schools (TN)
+Melinda,Glover,j357magicebox@gmail.com,(423)300-9186,Confirmed - UPS.com,1911 Johnsons Ridge,Sneedville,Tennessee - TN,37869,HCES,4323951,Verified,Ely,Lawson,8/10/2013,,,a2xf3000003br1uAAA,a2wf300000Cg2tUAAR,Hancock County Schools (TN)
+David,Albright,j357magicebox@gmail.com,(423)300-9186,Confirmed - UPS.com,8023 Kyles Ford Hwy,Kyles Ford,Tennessee - TN,37765,HCHMS,3884948,Verified,Mark,Albright,5/5/2009,,,a2xf3000003bqinAAA,a2wf300000Cg2kcAAB,Hancock County Schools (TN)
+Rhonda,Roberts,rhonda@roberts.nrl,423-300-0332,Confirmed - UPS.com,172 Dave Roberts drive,Sneedville,Tennessee - TN,37869,Hancock County High schoo,3702280,New Entry / Not Yet Requested,Mykynzie,Roberts,11/5/2005,Female,White,a2xf3000003bq6dAAA,a2wf300000Cg2KUAAZ,Hancock County Schools (TN)
+Nellie,Martin,j357magicebox@gmail.com,(423)300-9186,Confirmed - UPS.com,1742 Johnsons Ridge Rd.,Sneedville,Tennessee - TN,37869,HCHMS,3797202,Verified,Timmy,Bell,2/4/2004,,,a2xf3000003brHNAAY,a2wf300000Cg2meAAB,Hancock County Schools (TN)
+Jenny,McNeil,j357magicebox@gmail.com,(222)222-2222,Confirmed - UPS.com,1305 Copper Ridge Rd,Thorn Hill,Tennessee - TN,37881,HCHMS,0,Verified,Zoey,Lawson,5/5/2006,,,a2xf3000003btAdAAI,a2wf300000Cg43fAAB,Hancock County Schools (TN)
+Butch,Dix,j357magicebox@gmail.com,(444)444-4444,Confirmed - UPS.com,4728 War Creek Rd,Thorn Hill,Tennessee - TN,37881,HCHMS,0,Verified,Jasmine,Ramirez,1/12/2020,,,a2xf3000003bt0oAAA,a2wf300000Cg3ziAAB,Hancock County Schools (TN)
+Linda,Wylie,j357magicebox@gmail.com,(444)444-4444,Confirmed - UPS.com,1522 Main St,Sneedville,Tennessee - TN,37869,HCHMS,0,Verified,Raleigh,Rimel,5/8/2003,,,a2xf3000003bvFTAAY,a2wf300000Cg58cAAB,Hancock County Schools (TN)
+Jap,Gilliam,jap@gilliam.nrl,423-300-9582,Confirmed - UPS.com,112 John Mcneil Blvd,Sneedville,Tennessee - TN,37869,Hancock Elementary,4350139,Verified,Jonathan,Price,1/29/2009,Male,White,a2xf3000003bvulAAA,a2wf300000Cg5ZHAAZ,Hancock County Schools (TN)
+Darci,Fancher,darci2118@yahoo.com,423-300-8009,Confirmed - UPS.com,449 Buell Rd,Sneedville,Tennessee - TN,37869,Hancock Elementary,4350161,Verified,Devun,Fancher,6/17/2009,Male,White,a2xf3000003bvrSAAQ,a2wf300000Cg5XQAAZ,Hancock County Schools (TN)
+Lacy,Livesay,lynn.drinnon@hcsk12.com,423-733-4111,No deliverable address available,Pro box 655,Sneedville,Tennessee - TN,37869,Hancock county elementary,2009612,New Entry / Not Yet Requested,Lacy,Livesay,,Female,White,a2xf300000AjEJXAA3,a2wf300000HNSWAAA5,Hancock County Schools (TN)
+Amanda,Johnson,lynn.drinnon@hcsk12.com,423-733-1469,No deliverable address available,596 Sweet Creek,Eidson,Tennessee - TN,37731-2221,Hancock county elementary,2000671,New Entry / Not Yet Requested,Aiden,Johnson,,Male,White,a2xf300000AjEHlAAN,a2wf300000HNSVCAA5,Hancock County Schools (TN)
+,,,,,,,,,,,,,,,,,,,Hancock County Schools (TN)
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
